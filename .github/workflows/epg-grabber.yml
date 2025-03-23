@@ -25,7 +25,7 @@ jobs:
 
       - name: Run EPG grabber script
         env:
-          M3U4U_EPG: ${{ secrets.LOCAL_EPG }}
+          LOCAL_EPG: ${{ secrets.LOCAL_EPG }}
         run: |
           python epg-grabber/getEpgs.py
 

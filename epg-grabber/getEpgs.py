@@ -67,7 +67,7 @@ def filter_and_build_epg(urls):
             tree.write(f, encoding='utf-8', xml_declaration=True)
         print(f"New EPG saved to {output_file_gz}")
 	    
-m3u4u_epg = os.getenv("M3U4U_EPG")
+local_epg = os.getenv("LOCAL_EPG")
 urls = [
 	'https://epgshare01.online/epgshare01/epg_ripper_US1.xml.gz',
 	'https://epgshare01.online/epgshare01/epg_ripper_US_LOCALS2.xml.gz',

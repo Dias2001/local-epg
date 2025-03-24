@@ -11,349 +11,6 @@
     <url>http://www.tvpassport.com</url>
     <display-name lang="en">ION  - Eastern Feed</display-name>
   </channel>
-  <programme channel="ION.Plus.TV.us" start="20250322060000 -0400" stop="20250322070000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Run, Donovan, Run</sub-title>
-    <desc lang="en">When Superintendent Donovan transports an inmate, who happens to be his former partner, he finds himself confronting the past and caught up in a daring and dangerous escape.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16646888_i_s3_aj.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322070000 -0400" stop="20250322080000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Hand of Cod</sub-title>
-    <desc lang="en">After a severed hand is found in a box of frozen cod, the team must uncover the identity of both the victim and the killer behind the grisly crime.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22990351_e_h8_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322080000 -0400" stop="20250322090000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">The Good Shepherd</sub-title>
-    <desc lang="en">When Rex is accused of attacking a decorated former police officer, Charlie enlists the help of an unorthodox ally to uncover the truth in the hopes of restoring Rex's position on the team.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23038619_e_h10_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322090000 -0400" stop="20250322100000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Den of Snakes</sub-title>
-    <desc lang="en">When the co-owner of a successful board game company is found dead of a snake bite, the team has to not only catch the killer, but also the deadly venomous snake that is still on the loose.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23063077_e_s2_aa.jpg" />
-    <episode-num system="onscreen">E504</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322100000 -0400" stop="20250322110000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">The Date Escape</sub-title>
-    <desc lang="en">After two killers escape from St. John's Women's Penitentiary, the team is stymied in their attempts to capture the duo when their antics turn them into modern-day folk heroes.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23125862_e_s2_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322110000 -0400" stop="20250322120000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Bury the Lead</sub-title>
-    <desc lang="en">When Supt. Donovan's journalism student daughter investigates the story behind a murder on her university campus, the team races to find the killer before someone else becomes the next victim.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23180443_e_s3_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322120000 -0400" stop="20250322130000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Rexpert Witness</sub-title>
-    <desc lang="en">When an important trial is jeopardized after Sarah's testimony is challenged by a former rival in court, it's up to Charlie, Rex, and the rest of the Major Crimes team to uncover new evidence to save the case before time runs out.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23231269_e_s2_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322130000 -0400" stop="20250322140000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">One Wild Night</sub-title>
-    <desc lang="en">When the maid-of-honor winds up dead after a bachelorette party, it´s up to Charlie and Rex to untangle the events of the night.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p16646888_i_s3_aj.jpg" />
-    <episode-num system="onscreen">E510</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322140000 -0400" stop="20250322150000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Working for the Weekend</sub-title>
-    <desc lang="en">When Rex finds a body with signs of foul play during Charlie and Sarah's romantic weekend getaway, they discover the idyllic community they're staying in may be more hostile than it looks.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23701615_e_h10_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322150000 -0400" stop="20250322160000 -0400">
-    <title lang="en">Hudson &amp; Rex</title>
-    <sub-title lang="en">Lost Lives Club</sub-title>
-    <desc lang="en">After a popular physiotherapist is murdered, the team must investigate the victims of his alleged sexual assaults in order to track down the killer before they strike again.</desc>
-    <credits>
-      <actor>John Reardon</actor>
-      <actor>Mayko Nguyen</actor>
-      <actor>Kevin Hanchard</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p23741184_e_h10_aa.jpg" />
-    <episode-num system="onscreen">E515</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322160000 -0400" stop="20250322170000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">A Friend in Need</sub-title>
-    <desc lang="en">Izzy puts her and Bull's upcoming wedding on hold when Bull jeopardizes Benny's election campaign by having TAC handle the corruption trial defense of the former District Attorney whom Benny is running to replace.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Freddy Rodriguez</actor>
-      <actor>Geneva Carr</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E516</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322170000 -0400" stop="20250322180000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Gone</sub-title>
-    <desc lang="en">Bull and the TAC team must call upon all of their collective experience to locate Bull's kidnapped daughter; Bull begins to suspect the captor is someone connected to his past.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20340722_e_s4_ag.jpg" />
-    <episode-num system="onscreen">E601</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322180000 -0400" stop="20250322190000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Espionage</sub-title>
-    <desc lang="en">A client is on trial for going public with classified government documents; Bull experiences emotional turmoil following his daughter's kidnapping.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E602</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322190000 -0400" stop="20250322200000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Bull Undone</sub-title>
-    <desc lang="en">TAC represents a man charged with his high school girlfriend's murder after a documentary depicts him as the prime suspect in the decades-old homicide.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E603</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322200000 -0400" stop="20250322210000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Uneasy Lies the Crown</sub-title>
-    <desc lang="en">Bull faces uncertainty in court when TAC handles a class action suit against a vaping company selling malfunctioning devices; Marissa takes the initiative when Bull ignores TAC's growing financial difficulties.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E604</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322210000 -0400" stop="20250322220000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">King Bull</sub-title>
-    <desc lang="en">The team asks Bull to step aside, when they fear his recent issues could negatively affect their defense of a business mogul accused of being mentally unfit to lead his company.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E605</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322220000 -0400" stop="20250322230000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Better Angels</sub-title>
-    <desc lang="en">Bull has just two days to prepare a defense for a midwife accused of practicing without a license; the team tries to convince the private religious community of women their client helps to serve as character witnesses.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E606</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250322230000 -0400" stop="20250323000000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Confidence Man</sub-title>
-    <desc lang="en">Bull's legal troubles go from professional to personal when new evidence in his bribery trial implicates his wife; the TAC team's efforts to assist Bull in court are thwarted by his attorney, who fears they will cross a legal line to help their boss.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p20987762_e_s4_ag.jpg" />
-    <episode-num system="onscreen">E607</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250323000000 -0400" stop="20250323010000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">Snowed In</sub-title>
-    <desc lang="en">Bull needs a Christmas miracle when he takes on a sports agency's young assistant charged with providing a star client lethal drugs.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p21025942_e_s2_ad.jpg" />
-    <episode-num system="onscreen">E608</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250323010000 -0400" stop="20250323020000 -0400">
-    <title lang="en">Bull</title>
-    <sub-title lang="en">False Positive</sub-title>
-    <desc lang="en">Bull helps a grieving mother sue the developers of a computer program that misidentified her son as a criminal, leading him to be fatally shot by the police; Bull and Marissa clash when she considers a job offer from a rival company.</desc>
-    <credits>
-      <actor>Michael Weatherly</actor>
-      <actor>Geneva Carr</actor>
-      <actor>Yara Martinez</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12909993_i_s4_ag.jpg" />
-    <episode-num system="onscreen">E609</episode-num>
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250323020000 -0400" stop="20250323040000 -0400">
-    <title lang="en">Midsomer Murders</title>
-    <sub-title lang="en">Crime and Punishment</sub-title>
-    <desc lang="en">Barnaby investigates the death of a neighborhood watch group member revealing a dark quest for control.</desc>
-    <credits>
-      <actor>Neil Dudgeon</actor>
-      <actor>Gwilym Lee</actor>
-      <actor>Nick Hendrix</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p196903_b_h10_af.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
-  <programme channel="ION.Plus.TV.us" start="20250323040000 -0400" stop="20250323060000 -0400">
-    <title lang="en">Midsomer Murders</title>
-    <sub-title lang="en">Last Man Out</sub-title>
-    <desc lang="en">Barnaby and Winter investigate the death of a star cricketer during a tournament, but could the dislike of a cricket format really be the motive for murder?</desc>
-    <credits>
-      <actor>Neil Dudgeon</actor>
-      <actor>Gwilym Lee</actor>
-      <actor>Nick Hendrix</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p196903_b_h10_af.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVPG</value>
-    </rating>
-  </programme>
   <programme channel="ION.Plus.TV.us" start="20250323060000 -0400" stop="20250323070000 -0400">
     <title lang="en">Murdoch Mysteries</title>
     <sub-title lang="en">An Avoidable Hinder</sub-title>
@@ -1293,317 +950,363 @@
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322060000 -0400" stop="20250322070000 -0400">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Male in the Mail</sub-title>
-    <desc lang="en">After dismembered remains are found in multiple mailing boxes, the team uncovers a complicated love triangle; Booth's grandfather reveals surprising news; Special Agent Genny Shaw (Tina Majorino) learns how important teamwork is.</desc>
+  <programme channel="ION.Plus.TV.us" start="20250326040000 -0400" stop="20250326060000 -0400">
+    <title lang="en">Midsomer Murders</title>
+    <sub-title lang="en">Death by Persuasion</sub-title>
+    <desc lang="en">A young woman is stabbed to death with a quill at a Jane Austen fantasy event.</desc>
     <credits>
-      <actor>Emily Deschanel</actor>
-      <actor>David Boreanaz</actor>
-      <actor>T.J. Thyne</actor>
+      <actor>Neil Dudgeon</actor>
+      <actor>Nick Hendrix</actor>
+      <actor>Fiona Dolman</actor>
     </credits>
     <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8942348_e_h8_ac.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322070000 -0400" stop="20250322080000 -0400">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Twist in the Twister</sub-title>
-    <desc lang="en">The team suspects murder when a storm chaser is killed while filming a tornado; Booth becomes increasingly protective of Brennan.</desc>
-    <credits>
-      <actor>Emily Deschanel</actor>
-      <actor>David Boreanaz</actor>
-      <actor>T.J. Thyne</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8954335_e_s3_aa.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322080000 -0400" stop="20250322090000 -0400">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Crack in the Code</sub-title>
-    <desc lang="en">After a cryptic message written in human blood is found at a national monument, the team ends up embarking on a scavenger hunt; Brennan and Booth search for their perfect family home.</desc>
-    <credits>
-      <actor>Emily Deschanel</actor>
-      <actor>David Boreanaz</actor>
-      <actor>T.J. Thyne</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8960088_e_h8_ac.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322090000 -0400" stop="20250322100000 -0400">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Prisoner in the Pipe</sub-title>
-    <desc lang="en">When the remains of an escaped convict are found in the sewer, the investigation reveals the man died in prison; Brennan gives birth in unconventional circumstances.</desc>
-    <credits>
-      <actor>Emily Deschanel</actor>
-      <actor>David Boreanaz</actor>
-      <actor>T.J. Thyne</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p185129_i_h8_ah.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322100000 -0400" stop="20250322110000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Soldier Up</sub-title>
-    <desc lang="en">While Benson tries to help the gang member who attacked her, Duarte reveals a shocking piece of evidence in the case; Fin is tasked with hiring new detectives for the Bronx SVU.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322110000 -0400" stop="20250322120000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Blood Out</sub-title>
-    <desc lang="en">As Benson and Carisi put a vengeful crime boss on trial, Fin tries to help a woman who was drugged and left for dead; Velasco takes drastic action to get information from a witness.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322120000 -0400" stop="20250322130000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Intersection</sub-title>
-    <desc lang="en">A car accident leads the detectives on a search for an ambulance driver assaulting his charges; Fin gives Detective Bruno a tour of Manhattan SVU.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322130000 -0400" stop="20250322140000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Dutch Tears</sub-title>
-    <desc lang="en">A recently released convict goes looking for his arresting officer, Fin Tutuola; Carisi tries to get an arrest warrant without a positive suspect ID.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322140000 -0400" stop="20250322150000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">King of the Moon</sub-title>
-    <desc lang="en">A man with dementia confesses to murder, but Benson and Carisi believe there's more to the case; when rumors swirl around the squad room, Fin presses Velasco for the truth.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322150000 -0400" stop="20250322160000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">The Presence of Absence</sub-title>
-    <desc lang="en">An internet dating site becomes the source of terror for a young widow; Muncy struggles with Velasco's absence.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322160000 -0400" stop="20250322170000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Lime Chaser</sub-title>
-    <desc lang="en">The search for a suspect who drugs women's drinks in crowded bars leads the SVU to Muncy's brother; Churlish makes a risky move to impress Benson.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322170000 -0400" stop="20250322180000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Bubble Wrap</sub-title>
-    <desc lang="en">A construction tycoon interferes with an SVU investigation into her family; Carisi struggles to get an indictment when the complainant backs down.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322180000 -0400" stop="20250322190000 -0400">
-    <title lang="en">Law &amp; Order: Special Victims Unit</title>
-    <sub-title lang="en">Bend the Law</sub-title>
-    <desc lang="en">Carisi must tread carefully when Maxwell's husband becomes a person of interest in an SVU investigation; Benson sends Velasco to take an old friend into custody.</desc>
-    <credits>
-      <actor>Mariska Hargitay</actor>
-      <actor>Ice-T</actor>
-      <actor>Kelli Giddish</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p184536_i_s4_ao.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322190000 -0400" stop="20250322193000 -0400">
-    <title lang="en">Live: NWSL On ION</title>
-    <sub-title lang="en">Pre Match Show</sub-title>
-    <desc lang="en">In-depth studio coverage of the National Women's Soccer League from Scripps Sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29555352_b_v12_aa.jpg" />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322193000 -0400" stop="20250322213000 -0400">
-    <title lang="en">Live: NWSL Soccer</title>
-    <sub-title lang="en">Kansas City Current at Washington Spirit</sub-title>
-    <desc lang="en">The Spirit face the Current in their home opener. Makenna Morris and Ashley Hatch tallied to help Washington beat Houston 2-1 to begin the season March 14. Temwa Chawinga, NWSL's leading scorer in 2024, scored in Kansas City's 3-1 win over Portland.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001ZZ4ZE.jpg" />
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322213000 -0400" stop="20250322220000 -0400">
-    <title lang="en">Live: NWSL On ION</title>
-    <sub-title lang="en">Match Break Show</sub-title>
-    <desc lang="en">Live analysis of National Women's Soccer League action from Scripps Sports.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Miscellaneous</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29555352_b_v12_aa.jpg" />
-    <rating system="MPAA">
-      <value>TV14</value>
-    </rating>
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250322220000 -0400" stop="20250323000000 -0400">
-    <title lang="en">Live: NWSL Soccer</title>
-    <sub-title lang="en">Racing Louisville FC at Bay FC</sub-title>
-    <desc lang="en">Racing Louisville FC (0-0-1) head west for a contest against Bay FC (0-0-1) at PayPal Park. Defender Kiki Pickett salvaged a draw for Bay FC with a long-range goal in a 1-1 opening-day match with Utah. Louisville also drew 1-1, with North Carolina.</desc>
-    <category lang="en">Sports</category>
-    <category lang="en">Soccer</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/GNLZZGG001ZZ898.jpg" />
-  </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323000000 -0400" stop="20250323010000 -0400">
-    <title lang="en">Magnum P.I.</title>
-    <sub-title lang="en">The Woman Who Never Died</sub-title>
-    <desc lang="en">Magnum takes a case from fellow private investigator Luther Gillis to find the true identity of a man's comatose fiancée when he learns that she's had extensive facial surgery.</desc>
-    <credits>
-      <actor>Jay Hernandez</actor>
-      <actor>Perdita Weeks</actor>
-      <actor>Zachary Knighton</actor>
-    </credits>
-    <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15528151_i_s3_aj.jpg" />
-    <episode-num system="onscreen">E103</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p196903_b_h10_af.jpg" />
     <previously-shown />  <rating system="MPAA">
       <value>TVPG</value>
     </rating>
   </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323010000 -0400" stop="20250323020000 -0400">
-    <title lang="en">Magnum P.I.</title>
-    <sub-title lang="en">Six Paintings, One Frame</sub-title>
-    <desc lang="en">An art connoisseur and close friend of Higgins who recently hired Magnum to test his security is murdered, and Thomas is arrested as the main suspect.</desc>
+  <programme channel="ION.Plus.TV.us" start="20250326060000 -0400" stop="20250326070000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">To Die For</sub-title>
+    <desc lang="en">A celebrated restaurant chef is a star witness in the trial of a mob boss charged with shooting his business partner.</desc>
     <credits>
-      <actor>Jay Hernandez</actor>
-      <actor>Perdita Weeks</actor>
-      <actor>Zachary Knighton</actor>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
     </credits>
+    <category lang="en">Sci-Fi</category>
     <category lang="en">Drama</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15528151_i_s3_aj.jpg" />
-    <episode-num system="onscreen">E104</episode-num>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E24</episode-num>
     <previously-shown />  <rating system="MPAA">
       <value>TV14</value>
     </rating>
   </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323020000 -0400" stop="20250323023000 -0400">
-    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
-    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323023000 -0400" stop="20250323033000 -0400">
-    <title lang="en">Who Has Access to Your Personal Data?</title>
-    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323033000 -0400" stop="20250323040000 -0400">
-    <title lang="en">Shark CarpetXpertTM with StainStrikerTM 2-in-1 deep carpet cleaner with built-in spot &amp; stain remove</title>
-    <desc lang="en">Shark CarpetXpert with StainStriker, 2-in-1 deep carpet and upholstery cleaner with a handheld spot &amp; stain eliminator, combines Shark's powerful suction &amp; deep-cleaning innovation to deliver unbeatable deep carpet cleaning &amp; tough stain elimination.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477975_b_v12_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323040000 -0400" stop="20250323043000 -0400">
-    <title lang="en">Who Has Access to Your Personal Data?</title>
-    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323043000 -0400" stop="20250323050000 -0400">
-    <title lang="en">In Touch With Dr. Charles Stanley</title>
-    <desc lang="en">Dr. Charles Stanley, pastor of the First Baptist Church in Atlanta, shares his insights on Christian faith and enlightens viewers with spiritual motivation.</desc>
-    <category lang="en">Religious</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p407115_i_s2_aa.jpg" />
+  <programme channel="ION.Plus.TV.us" start="20250326070000 -0400" stop="20250326080000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">Eye of the Storm</sub-title>
+    <desc lang="en">A sex tape featuring the Minister of Foreign Affairs goes viral.</desc>
+    <credits>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E25</episode-num>
     <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
+      <value>TV14</value>
     </rating>
   </programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323050000 -0400" stop="20250323053000 -0400">
-    <title lang="en">Who Has Access to Your Personal Data?</title>
-    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
-    <category lang="en">Paid Program</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
-    <previously-shown /></programme>
-  <programme channel="ION..-.Eastern.Feed.us" start="20250323053000 -0400" stop="20250323060000 -0400">
-    <title lang="en">Under Eye Bags? SOLUTION!</title>
-    <desc lang="en">Plexaderm helps reduce Under Eye Bags, Dark Circles, and Wrinkles in just 10 minutes!</desc>
-    <category lang="en">Paid Program</category>
-    <category lang="en">Lifestyle</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15731276_b_h8_aa.jpg" />
-    <previously-shown /></programme>
+  <programme channel="ION.Plus.TV.us" start="20250326080000 -0400" stop="20250326090000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">Reckoning</sub-title>
+    <desc lang="en">Toby connects with a gifted young woman whose mental powers appear to rival or even surpass his own.</desc>
+    <credits>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E26</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326090000 -0400" stop="20250326100000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">The Bank Job</sub-title>
+    <desc lang="en">Toby is forced to use his telepathic abilities to keep himself and others alive when he becomes a hostage in a bank heist.</desc>
+    <credits>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E27</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326100000 -0400" stop="20250326110000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">Cold Case Blues</sub-title>
+    <desc lang="en">Toby struggles with Alvin Klein during his first official investigation: a 10-year-old murder.</desc>
+    <credits>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E28</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326110000 -0400" stop="20250326120000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">Curtain Call</sub-title>
+    <desc lang="en">A performer's life is threatened, so Toby poses as her assistant and helps to investigate.</desc>
+    <credits>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E29</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326120000 -0400" stop="20250326130000 -0400">
+    <title lang="en">The Listener</title>
+    <sub-title lang="en">The Taking</sub-title>
+    <desc lang="en">An African teenager, whose father is an alleged war criminal, is abducted.</desc>
+    <credits>
+      <actor>Craig Olejnik</actor>
+      <actor>Ennis Esmer</actor>
+      <actor>Lisa Marcos</actor>
+    </credits>
+    <category lang="en">Sci-Fi</category>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p186393_b_h8_ak.jpg" />
+    <episode-num system="onscreen">E30</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326130000 -0400" stop="20250326140000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Scissors</sub-title>
+    <desc lang="en">MacGyver and Jack must find Riley after she disappears and hacks into the NSA; Bozer embarks on his first mission; Jack reveals his history with Riley's mother.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Sandrine Holt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13542065_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E111</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326140000 -0400" stop="20250326150000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Screwdriver</sub-title>
+    <desc lang="en">MacGyver hunts a U.S. government mole who is leaking classified information to the organization trying to take down the Phoenix Foundation; Sarah comes back to help with the mission; Mac can't tell which side Nikki is on.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Sandrine Holt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13597248_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E112</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326150000 -0400" stop="20250326160000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Large Blade</sub-title>
+    <desc lang="en">While returning from capturing a war criminal, Mac and Jack's helicopter crashes, allowing the prisoner to escape.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Sandrine Holt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13639502_e_h8_ab.jpg" />
+    <episode-num system="onscreen">E113</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326160000 -0400" stop="20250326170000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Fish Scaler</sub-title>
+    <desc lang="en">Mac and Jack must track down a corrupt FBI agent who has framed a man for murder; everyone on the team is terrified to get a performance review from the tough new boss.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13713737_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E114</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326170000 -0400" stop="20250326180000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Magnifying Glass</sub-title>
+    <desc lang="en">When Matty's goddaughter and her boyfriend are killed in a San Francisco park, Mac and the team investigate the crime and start to suspect that the 1970s Zodiac Killer has returned.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p12910046_b_h8_aa.jpg" />
+    <episode-num system="onscreen">E115</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326180000 -0400" stop="20250326190000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Hook</sub-title>
+    <desc lang="en">While Mac and Jack are tracking a dangerous fugitive, a family of bounty hunters kidnap him; Bozer and Riley try to hack into Jack's CIA file.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13762670_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E116</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326190000 -0400" stop="20250326200000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Ruler</sub-title>
+    <desc lang="en">When Mac and the team are blamed for a terrorist bombing, the Phoenix Foundation is forced to disavow them; the team must clear their names without support from back home.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13792755_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E117</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326200000 -0400" stop="20250326210000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Flashlight</sub-title>
+    <desc lang="en">After an earthquake in Hawaii, Mac and the team join Chin and Kono from the Five-0 task force to rescue a group of government scientists trapped in a building; another group tries to steal top-secret weaponry from the scientists.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13840902_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E118</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326210000 -0400" stop="20250326220000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Compass</sub-title>
+    <desc lang="en">Mac's close friend from M.I.T. fakes her own death to prevent someone from killing her to suppress her scientific research.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Sandrine Holt</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13939805_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E119</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326220000 -0400" stop="20250326230000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Hole Puncher</sub-title>
+    <desc lang="en">When the team intercepts a terror group's message for Murdoc, instructing him to kill a tech analyst, Mac poses as a psychopath to save the intended victim.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13939877_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E120</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250326230000 -0400" stop="20250327000000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Cigar Cutter</sub-title>
+    <desc lang="en">Murdoc moves ahead with his plans for revenge against MacGyver by recruiting his recently released former cellmate to infiltrate the Phoenix Complex and kill every agent inside.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p13905817_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E121</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250327000000 -0400" stop="20250327010000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">DIY or DIE</sub-title>
+    <desc lang="en">MacGyver uses a cell phone and soccer ball in the search for a Navy SEAL who is believed to be held captive in the Middle East.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14215733_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E201</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250327010000 -0400" stop="20250327020000 -0400">
+    <title lang="en">MacGyver</title>
+    <sub-title lang="en">Muscle Car + Paper Clips</sub-title>
+    <desc lang="en">Riley disappears during her first solo mission; Mac and the team attempt to locate her.</desc>
+    <credits>
+      <actor>Lucas Till</actor>
+      <actor>George Eads</actor>
+      <actor>Justin Hires</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14569077_e_h10_ae.jpg" />
+    <episode-num system="onscreen">E203</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION.Plus.TV.us" start="20250327020000 -0400" stop="20250327040000 -0400">
+    <title lang="en">Midsomer Murders</title>
+    <sub-title lang="en">The Curse of the Ninth</sub-title>
+    <desc lang="en">Barnaby and Winter uncover multiple motives when the winner of a fought-after music award is found strangled with a violin string moments before a performance, including a rivalry over the prize and a missing Stradivarius.</desc>
+    <credits>
+      <actor>Neil Dudgeon</actor>
+      <actor>Gwilym Lee</actor>
+      <actor>Nick Hendrix</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p196903_b_h10_af.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250323060000 -0400" stop="20250323070000 -0400">
     <title lang="en">Bones</title>
     <sub-title lang="en">The Bump in the Road</sub-title>
@@ -2308,25 +2011,17 @@
     <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
     <previously-shown /></programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250325023000 -0400" stop="20250325030000 -0400">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
+    <previously-shown /></programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250325030000 -0400" stop="20250325033000 -0400">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">One Day, One Bathroom: Quality Remodeling With FREE Installation!</title>
+    <desc lang="en">Trusted brand Jacuzzi and renowned interior designer, Christina Hall, share their secrets on how you can easily and affordably transform your bathroom into a gorgeous custom, safe and stylish space in 1 day! Call now for a FREE quote &amp; installation!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p27170661_b_h10_aa.jpg" />
+    <previously-shown /></programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250325033000 -0400" stop="20250325040000 -0400">
     <title lang="en">Who Has Access to Your Personal Data?</title>
     <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
@@ -2349,15 +2044,11 @@
     </rating>
   </programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250325050000 -0400" stop="20250325053000 -0400">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">Total Gym 50 Years of Moving You</title>
+    <desc lang="en">For years, Total Gym has been a leader in fitness, empowering millions to achieve their health goals. One piece of equipment does it all. Over 100 unique exercises. No assembly required. Folds for storing. Go to TotalGymDirect.com for special offers!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28234501_st_v8_aa.jpg" />
+    <previously-shown /></programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250325053000 -0400" stop="20250325060000 -0400">
     <title lang="en">GLP1 Facts about Weight Loss</title>
     <desc lang="en">Struggling with weight loss? Discover LifeMD's GLP-1 program!</desc>
@@ -2690,15 +2381,11 @@
     </rating>
   </programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250326030000 -0400" stop="20250326033000 -0400">
-    <title lang="en">Paid Programming</title>
-    <desc lang="en">Paid programming.</desc>
+    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
     <category lang="en">Paid Program</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p459763_b_s4_ax.jpg" />
-    <previously-shown />  <rating system="MPAA">
-      <value>TVG</value>
-    </rating>
-  </programme>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
+    <previously-shown /></programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250326033000 -0400" stop="20250326040000 -0400">
     <title lang="en">Who Has Access to Your Personal Data?</title>
     <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
@@ -2721,6 +2408,12 @@
     </rating>
   </programme>
   <programme channel="ION..-.Eastern.Feed.us" start="20250326050000 -0400" stop="20250326053000 -0400">
+    <title lang="en">HairClub. Regrow, Replace, Restore your Hair</title>
+    <desc lang="en">Don't let hair loss hold you back! HairClub specializes in restoring your hair and confidence with customized solutions. From cutting edge treatments to natural looking hair systems, we help you regain your confidence and love your hair again.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p22482824_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326053000 -0400" stop="20250326060000 -0400">
     <title lang="en">Paid Programming</title>
     <desc lang="en">Paid programming.</desc>
     <category lang="en">Paid Program</category>
@@ -2730,6 +2423,365 @@
       <value>TVG</value>
     </rating>
   </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326060000 -0400" stop="20250326070000 -0400">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Sic Semper Tyranis</sub-title>
+    <desc lang="en">Pride and the team must go on a dangerous undercover mission to retrieve a stolen missile and prevent an attack.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10779088_i_h8_af.jpg" />
+    <episode-num system="onscreen">E201</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326070000 -0400" stop="20250326080000 -0400">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Shadow Unit</sub-title>
+    <desc lang="en">A blogger dedicated to exposing government corruption is murdered; during the investigation, it is revealed that a war crime may have occurred during a humanitarian effort in Bolivia.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10779088_i_h8_af.jpg" />
+    <episode-num system="onscreen">E202</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326080000 -0400" stop="20250326090000 -0400">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Touched by the Sun</sub-title>
+    <desc lang="en">When a highly regarded Navy pilot is killed after crashing a new, high-tech jet at an air show, the team must determine if it was human or mechanical error.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10779088_i_h8_af.jpg" />
+    <episode-num system="onscreen">E203</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326090000 -0400" stop="20250326100000 -0400">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">I Do</sub-title>
+    <desc lang="en">The NCIS team investigates when a Navy drone pilot is murdered after using a black market drone to obtain military surveillance.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10779088_i_h8_af.jpg" />
+    <episode-num system="onscreen">E204</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326100000 -0400" stop="20250326110000 -0400">
+    <title lang="en">NCIS: New Orleans</title>
+    <sub-title lang="en">Foreign Affairs</sub-title>
+    <desc lang="en">When an Australian Royal Navy Lieutenant is murdered in New Orleans, Special Agent Naomi Parsons (Kate Beahan) is sent to work with Special Agent Pride.</desc>
+    <credits>
+      <actor>Scott Bakula</actor>
+      <actor>Lucas Black</actor>
+      <actor>Zoe McLellan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p10779088_i_h8_af.jpg" />
+    <episode-num system="onscreen">E205</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326110000 -0400" stop="20250326120000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Brushed Off</sub-title>
+    <desc lang="en">A famous basketball player is found dead of an apparent drug overdose; Danny looks into possible ties to a local drug gang; Erin revisits the case of a man she may have wrongfully convicted years ago; Frank is approached by Archbishop Kearns.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14685946_e_h10_aa.jpg" />
+    <episode-num system="onscreen">E806</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326120000 -0400" stop="20250326130000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Common Ground</sub-title>
+    <desc lang="en">A case turns personal when Danny works to protect a nurse from her violent ex-boyfriend; an acquaintance of Frank's comes forth with a theory regarding the death of an inmate; Jamie and Eddie help deliver a baby.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14716848_e_h8_ab.jpg" />
+    <episode-num system="onscreen">E807</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326130000 -0400" stop="20250326140000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Pick Your Poison</sub-title>
+    <desc lang="en">Eddie's judgment is clouded by her past when she arrests a loathed college acquaintance; Frank is hesitant to mar the spotless record of a member of the force who tested positive for marijuana.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14716873_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E808</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326140000 -0400" stop="20250326150000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Pain Killers</sub-title>
+    <desc lang="en">Danny and Baez join a narcotics task force to track a drug supplier; Baez comes into contact with drugs and gets an accidental overdose; Jamie and Eddie work to protect a rehabilitated sex offender; Frank forms an unlikely alliance with Mayor Dutton.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14807200_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E809</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326150000 -0400" stop="20250326160000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Heavy Is the Head</sub-title>
+    <desc lang="en">Jamie and Eddie ask Erin to drop old charges against a man who bravely rescued a woman from a local hostage situation; Danny and Baez work a case involving car thieves and discover the leader is a mobster they've dealt with before.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14811068_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E810</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326160000 -0400" stop="20250326170000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Second Chances</sub-title>
+    <desc lang="en">When a journalist disappears while working on an exposé about an innocent man serving time for murder, Danny and Baez hope that re-examining the original case will help them find her.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14947153_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E811</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326170000 -0400" stop="20250326180000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">The Brave</sub-title>
+    <desc lang="en">Anthony is shot while interviewing a witness; Erin enlists his archenemy, Danny, to investigate the case; Jamie and Eddie get in the middle of a standoff between a police lieutenant and a developmentally disabled man posing as an officer.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14982419_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E812</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326180000 -0400" stop="20250326190000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Erasing History</sub-title>
+    <desc lang="en">When Henry is the key witness on Danny and Baez's case, his meddling eventually leads them to valuable information; Nicky shocks her family by siding with her activist friend; Jamie and Eddie learn a parole officer is taking advantage of his power.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p14989099_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E813</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326190000 -0400" stop="20250326200000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">School of Hard Knocks</sub-title>
+    <desc lang="en">A student is shot by a rival gang member in his high school courtyard; Danny and Baez try to prevent further violence; the principal recklessly takes matters into his own hands; Erin tries to help a friend who is mixed up in an illegal gambling ring.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8130493_b_h8_af.jpg" />
+    <episode-num system="onscreen">E814</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326200000 -0400" stop="20250326210000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Legacy</sub-title>
+    <desc lang="en">Danny considers taking a new, more profitable job after investigating the death of a wealthy man; Nicky tries to avoid involving her family when she is sexually harassed by her boss at her new internship.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15140534_e_s2_aa.jpg" />
+    <episode-num system="onscreen">E815</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326210000 -0400" stop="20250326220000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Tale of Two Cities</sub-title>
+    <desc lang="en">A man living a double life with two separate families is murdered; Erin asks Anthony to help investigate his former partner; Frank deliberates between two candidates for the chief of transit position.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15167725_e_s4_aa.jpg" />
+    <episode-num system="onscreen">E816</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TVPG</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326220000 -0400" stop="20250326230000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Close Calls</sub-title>
+    <desc lang="en">Danny forces his brother-in-law to help Baez take down the mobsters he's mixed up with; Frank suspects his old partner is guilty of a crime; Jamie is approached by an officer who wants help getting reassigned from his undercover assignment.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15233467_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E817</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250326230000 -0400" stop="20250327000000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Friendship, Love, and Loyalty</sub-title>
+    <desc lang="en">A woman voices outrage over her son's unsolved murder; Danny re-examines the case; Eddie gets shot while on duty; Erin and her ex-husband face off in court; Frank deals with an angry police force after the mayor fails to defend it.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8130493_b_h8_af.jpg" />
+    <episode-num system="onscreen">E818</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327000000 -0400" stop="20250327010000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Risk Management</sub-title>
+    <desc lang="en">Danny and Baez race to find a missing girl who will die without her heart medication; Jamie and Eddie are on the wrong side of an investigation after engaging in a car chase; Sean wins an essay contest.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p15294892_e_h8_aa.jpg" />
+    <episode-num system="onscreen">E819</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327010000 -0400" stop="20250327020000 -0400">
+    <title lang="en">Blue Bloods</title>
+    <sub-title lang="en">Your Six</sub-title>
+    <desc lang="en">Danny resorts to asking his incarcerated archenemy for help locating a dangerous criminal who escaped from prison; Lugo refuses to assist unless he's allowed to accompany them on the pursuit; Frank tries to convince Jamie to take the sergeant's test.</desc>
+    <credits>
+      <actor>Tom Selleck</actor>
+      <actor>Donnie Wahlberg</actor>
+      <actor>Bridget Moynahan</actor>
+    </credits>
+    <category lang="en">Drama</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p8130493_b_h8_af.jpg" />
+    <episode-num system="onscreen">E820</episode-num>
+    <previously-shown />  <rating system="MPAA">
+      <value>TV14</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327020000 -0400" stop="20250327023000 -0400">
+    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327023000 -0400" stop="20250327030000 -0400">
+    <title lang="en">Shark CarpetXpertTM with StainStrikerTM 2-in-1 deep carpet cleaner with built-in spot &amp; stain remove</title>
+    <desc lang="en">Shark CarpetXpert with StainStriker, 2-in-1 deep carpet and upholstery cleaner with a handheld spot &amp; stain eliminator, combines Shark's powerful suction &amp; deep-cleaning innovation to deliver unbeatable deep carpet cleaning &amp; tough stain elimination.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477975_b_v12_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327030000 -0400" stop="20250327040000 -0400">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327040000 -0400" stop="20250327043000 -0400">
+    <title lang="en">NEW! Shark PowerDetect with DuoClean Detect Technology</title>
+    <desc lang="en">Meet the new Shark PowerDetect Upright Vacuum with features like DuoClean Detect Technology, self-cleaning brush roll and odor neutralizing and you will be cleaning faster, smarter and better!</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p29477991_i_h11_aa.jpg" />
+    <previously-shown /></programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327043000 -0400" stop="20250327050000 -0400">
+    <title lang="en">Through the Bible With Les Feldick</title>
+    <desc lang="en">Les Feldick was an Oklahoma farmer and rancher with a special gift for teaching the Bible. His simple and nondenominational approach on the program "Through the Bible with Les Feldick" has reached millions around the world with the Gospel of Grace.</desc>
+    <category lang="en">Religious</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p958387_i_s2_aa.jpg" />
+    <previously-shown />  <rating system="MPAA">
+      <value>TVG</value>
+    </rating>
+  </programme>
+  <programme channel="ION..-.Eastern.Feed.us" start="20250327050000 -0400" stop="20250327053000 -0400">
+    <title lang="en">Who Has Access to Your Personal Data?</title>
+    <desc lang="en">Even if YOU do everything right to protect yourself, company and institutional data breaches are out of your control. Nearly 1 out of 4 US consumers have been a victim of identity theft. Find out how LifeLock can help protect your identity.</desc>
+    <category lang="en">Paid Program</category>
+    <icon src="https://cdn.tvpassport.com/image/show/960x540/v2/p28553630_st_v8_aa.jpg" />
+    <previously-shown /></programme>
   <channel id="Ion.Mystery.us">
     <display-name lang="en">Ion Mystery</display-name>
     <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s89923_h15_ad.png" />

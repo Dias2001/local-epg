@@ -18,7 +18,6 @@ plex.tv.Made.In.Hollywood.plex
 Love.Nature.ca
 A.and.E.US.-.Eastern.Feed.us
 ABC.(WABC).New.York,.NY.us
-ABC.(WABC).New.York,.NY.us
 AMC.-.Eastern.Feed.us
 AXS.TV.USA.HD.us
 BET.-.Eastern.Feed.us
@@ -29,8 +28,6 @@ CMT.US.-.Eastern.Feed.us
 CNBC.USA.us
 CNN.us
 Cozi.TV.us
-test
-test
 Cartoon.Network.USA.-.Eastern.Feed.us
 Cinemax.-.Eastern.Feed.us
 Comedy.Central.(US).-.Eastern.Feed.us
@@ -64,7 +61,6 @@ MGM+.HDTV.(East).(MGM+HD).us
 MSG.-.Syracuse.us
 MSNBC DL.USA.us
 MTV.USA.-.Eastern.Feed.us
-test
 NBC.(WMAQ).Chicago,.IL.us
 NBC.(WNBC).New.York,.NY.us___
 Nickelodeon.USA.-.East.Feed.us

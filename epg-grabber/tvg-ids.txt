@@ -1,3 +1,4 @@
+Cartoon.Network.USA.-.Eastern.Feed.us
 CBC.Quebec.HDTV.(CBMTHD).ca
 CBC.News.Network.ca
 CTV.News.Channel.ca
@@ -35,6 +36,8 @@ Comet.us
 CookingChannel.us
 Court.TV.US.us
 Crime.and.Investigation.Network.USA.HD.us
+Discovery.Channel.(US).-.Eastern.Feed.us
+Disney.-.Eastern.Feed.us
 Disney.Junior.USA.-.East.us
 Disney.XD.USA.-.Eastern.Feed.us
 E!.Entertainment.USA.-.Eastern.Feed.us
@@ -56,6 +59,11 @@ History.Channel.US.-.Eastern.Feed.us
 IFC.HDTV.(East).us
 ION..-.Eastern.Feed.us
 Investigation.Discovery.USA.-.Eastern.us
+MN+.HD.in
+MNX.in
+MoreMax..Eastern.us
+MovieMax.(Max.6).-.East.us
+Movies.Now.HD.in
 Me.TV.us
 MGM+.HDTV.(East).(MGM+HD).us
 MSG.-.Syracuse.us
@@ -64,12 +72,14 @@ MTV.USA.-.Eastern.Feed.us
 NBC.(WMAQ).Chicago,.IL.us
 NBC.(WNBC).New.York,.NY.us___
 Nickelodeon.USA.-.East.Feed.us
+Nick.Jr..-.East.us
 National.Geographic.Wild.us
 NewsNation.-.Eastern.Feed.us
 NewsMax.TV.us
 Oprah.Winfrey.Network.USA.Eastern.us
 POP.-.East.us
 Paramount.Network.USA.-.Eastern.Feed.us
+Romedy.Now.in
 Syfy.-.Eastern.Feed.us
 Showtime.2.-.Eastern.us
 Showtime.Extreme.-.Eastern.us
@@ -92,3 +102,5 @@ USA.Network.-.East.Feed.us
 Universal.Kids.us
 VH1.-.Eastern.Feed.us
 WE.(WomenWEtv.usapos;s.Entertainment).-.Eastern.us
+Treehouse.ca
+YTV.(Youth.Television).-.East.ca

@@ -49,6 +49,7 @@ FUSE.TV.-.Eastern.feed.us
 FX.Networks.East.Coast.us
 FXX.USA.-.Eastern.us
 FYI DL.USA.-.Eastern.us
+HBO.HD.sg
 HBO.Comedy.HD.-.East.us
 HBO.Family.-.Eastern.Feed.us
 HBO.Family.(HD).sg

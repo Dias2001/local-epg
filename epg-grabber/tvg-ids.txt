@@ -30,6 +30,7 @@ CNBC.USA.us
 CNN.us
 Cozi.TV.us
 Cartoon.Network.USA.-.Eastern.Feed.us
+CINEMAX.(HD).sg
 Cinemax.-.Eastern.Feed.us
 Comedy.Central.(US).-.Eastern.Feed.us
 Comet.us

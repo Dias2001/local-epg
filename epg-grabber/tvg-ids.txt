@@ -51,6 +51,7 @@ FXX.USA.-.Eastern.us
 FYI DL.USA.-.Eastern.us
 HBO.Comedy.HD.-.East.us
 HBO.Family.-.Eastern.Feed.us
+HBO.Family.(HD).sg
 HBO.Signature.(HBO.3).-.Eastern.us
 HBO.-.Eastern.Feed.us
 HBO.Zone.HD.-.East.us

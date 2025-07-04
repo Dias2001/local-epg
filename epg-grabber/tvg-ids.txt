@@ -2,6 +2,7 @@ CBC.(CBLT).Toronto,.ON.ca
 CTV.(CFCN).Calgary,.AB.ca
 CTV2.Toronto,.ON.ca
 DiscoveryVelocity
+Food.Network.(HD).sg
 Global.BC.ca
 Noovo.(CFJP).Montreal,.QC.ca
 RDS2(src01).ca

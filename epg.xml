@@ -29,397 +29,6 @@
     <icon src="https://provider-static.plex.tv/epg/cms/production/8af80783-d355-4cd1-86eb-c3d54d9ff706/PlexVertCoverArt_Mona_Lapides.jpg" />
     <url>http://www.plex.tv</url>
   </channel>
-  <programme start="20260125000000 +0000" stop="20260125010000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Foot in the Foreclosure</sub-title>
-    <desc lang="en">Booth's grandfather comes to live with him and tags along as Brennan and Booth investigate human remains that were found by a real estate agent who was showing a property to prospective buyers.</desc>
-    <date>2009</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E8</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125010000 +0000" stop="20260125020000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Gamer in the Grease</sub-title>
-    <desc lang="en">The remains of a competitive gamer are found in a grease truck; Sweets, Hodgins and Jeffersonian intern Colin camp out for tickets to a movie premiere.</desc>
-    <date>2009</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E9</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125020000 +0000" stop="20260125030000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Goop on the Girl</sub-title>
-    <desc lang="en">Brennan's father (Ryan O'Neal) invites a distant relative, Margaret Whitesell (Zooey Deschanel), to spend Christmas with him and his daughter; Brennan and Booth investigate when a man dressed as Santa Claus is blown up after a botched bank robbery.</desc>
-    <date>2009</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E10</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125030000 +0000" stop="20260125040000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The X in the File</sub-title>
-    <desc lang="en">Brennan and Booth travel to Mexico to investigate human remains with extraterrestrial attributes; Angela and intern Wendell come clean about their relationship.</desc>
-    <date>2010</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E11</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125040000 +0000" stop="20260125050000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Proof in the Pudding</sub-title>
-    <desc lang="en">Government agents demand that Brennan and her team determine a cause of death for an unidentified and highly classified set of remains; Cam thinks Michelle is keeping a secret from her.</desc>
-    <date>2010</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E12</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125050000 +0000" stop="20260125060000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Dentist in the Ditch</sub-title>
-    <desc lang="en">A human skeleton is found in the trenches of a Civil War battleground; Booth's brother returns from his trip with surprising news.</desc>
-    <date>2010</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E13</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125060000 +0000" stop="20260125070000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Bones</title>
-    <sub-title lang="en">The Devil in the Details</sub-title>
-    <desc lang="en">Brennan and Booth investigate a set of uniquely disfigured remains allegorizing biblical text; a Jeffersonian intern reveals a secret about his past.</desc>
-    <date>2010</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Medical</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/6dca8b4d4ed513140e76495e29208099.jpg" />
-    <episode-num system="onscreen">S5 E14</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125070000 +0000" stop="20260125080000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Chasing Ghosts</sub-title>
-    <desc lang="en">The team reopens a cold case when a stolen Navy-issue gun turns out to belong to a chief petty officer who died 40 years ago; the team makes their annual Thanksgiving dinner together.</desc>
-    <date>2014</date>
-    <category lang="en">Holiday</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E9</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125080000 +0000" stop="20260125090000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Stolen Valor</sub-title>
-    <desc lang="en">A retired SEAL -- who tracked people impersonating military personnel -- is murdered; Brody finds that LaSalle is uncharacteristically unenthusiastic about Christmas.</desc>
-    <date>2014</date>
-    <category lang="en">Holiday</category>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E10</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125090000 +0000" stop="20260125100000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Baitfish</sub-title>
-    <desc lang="en">The investigation into an explosion at the Navy-Marine Corp Relief Gala reveals Pride was the bomb's target.</desc>
-    <date>2015</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E11</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125100000 +0000" stop="20260125110000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">The Abyss</sub-title>
-    <desc lang="en">The NCIS team and the Coast Guard Investigative Service work together when a Navy Admiral's daughter is the prime suspect in a double murder on a research boat; Lasalle looks for his estranged brother.</desc>
-    <date>2015</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E12</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125110000 +0000" stop="20260125120000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">The Walking Dead</sub-title>
-    <desc lang="en">After learning he was poisoned with a deadly dose of radiation, a Navy lieutenant commander asks Pride and the team to solve his imminent murder.</desc>
-    <date>2015</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E13</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125120000 +0000" stop="20260125130000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Careful What You Wish For</sub-title>
-    <desc lang="en">An agent is killed while working on a security detail for the Vice Chief of Naval Operations; Brody's past is evaluated.</desc>
-    <date>2015</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E14</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125130000 +0000" stop="20260125140000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">Le Carnivale de la Mort</sub-title>
-    <desc lang="en">A petty officer is murdered during Mardi Gras festivities; Pride contemplates what to tell his daughter about his strained relationship with his father.</desc>
-    <date>2015</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E15</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125140000 +0000" stop="20260125150000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">NCIS: New Orleans</title>
-    <sub-title lang="en">My Brother's Keeper</sub-title>
-    <desc lang="en">The NCIS team tries to narrow down the motive when a Navy recruiter is murdered in a hit-and-run; Lasalle worries about his brother.</desc>
-    <date>2015</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Mystery</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/f/gracenote/f356cc6a68b4d15522093b000799ee07.jpg" />
-    <episode-num system="onscreen">S1 E16</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125150000 +0000" stop="20260125160000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">Waimaka 'Ele'Ele</sub-title>
-    <desc lang="en">McGarrett works the murder case of one of the last survivors of the USS Arizona; Adam uncovers bone fragments at his new construction job.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S7 E22</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125160000 +0000" stop="20260125170000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">Wehe 'ana</sub-title>
-    <desc lang="en">Danny protects a coma patient who was the key witness from his last case at the Hawaiian Police Department.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S7 E23</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125170000 +0000" stop="20260125180000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">He Ke'u Na Ka 'Alae a Hina</sub-title>
-    <desc lang="en">McGarrett gets a tip that someone is plotting a terror attack on Oahu; Chin and Abby face a difficult decision.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S7 E24</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125180000 +0000" stop="20260125190000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">Ua Mau Ke Ea O Ka Aina I Ka Pono</sub-title>
-    <desc lang="en">McGarrett risks his life when Five-0 attempts to rescue the young girls trapped in the sex trafficking ring they have been tracking; Kono makes a life-changing decision.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S7 E25</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125190000 +0000" stop="20260125200000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">A'ole E 'Olelo Mai Ana Ke Ahi Ua Ana Ia</sub-title>
-    <desc lang="en">McGarrett and Danny recruit Tani Rey to join the task force when a hacker releases a dangerous arsonist from prison.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S8 E1</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125200000 +0000" stop="20260125210000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">Na La 'ilio</sub-title>
-    <desc lang="en">McGarrett and the team work with an injured police dog that is the only witness to an ambushed drug bust; a former SEAL looks to join the task force.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S8 E2</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125210000 +0000" stop="20260125220000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">Kau Pahi, Ko'u Kua. Kau Pu, Ko'u Po'O</sub-title>
-    <desc lang="en">The team enlists an old friend when a crime boss is murdered, triggering revenge killings across the island; MacGarrett and Danny work out details concerning their new restaurant venture.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S8 E3</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125220000 +0000" stop="20260125230000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">E Uhi Wale No 'A'Ole E Nalo, He Imu Puhi</sub-title>
-    <desc lang="en">When the HPD system is hacked and one of the Five-0's informants ends up dead, McGarrett enlists the help of hacker Aaron Wright, whom he just imprisoned.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S8 E4</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125230000 +0000" stop="20260126000000 +0000" channel="plex.tv.Ion.Mystery.plex">
-    <title lang="en">Hawaii Five-0</title>
-    <sub-title lang="en">Kama'oma'o, Ka 'Aina Huli Hana</sub-title>
-    <desc lang="en">At Halloween, the team investigates a string of murders that mirrors stories from well-known Hawaiian folklore; Grover visits a man who is hours away from execution and may hold the key to a case that has plagued Grover for years.</desc>
-    <date>2017</date>
-    <category lang="en">Crime drama</category>
-    <category lang="en">Entertainment</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/91ca2ae6151debd5f884de889f61b6e9.jpg" />
-    <episode-num system="onscreen">S8 E5</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
   <programme start="20260126000000 +0000" stop="20260126010000 +0000" channel="plex.tv.Ion.Mystery.plex">
     <title lang="en">Hawaii Five-0</title>
     <sub-title lang="en">Mohala I Ka Wai Ka Maka O Ka Pua</sub-title>
@@ -1561,146 +1170,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20260125002600 +0000" stop="20260125022400 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Girl Most Likely</title>
-    <desc lang="en">A hapless writer living in New York moves back to the comfort of her mother's house in New Jersey.</desc>
-    <date>2012</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/65d43566efee9d302816e3bf1511fa39.jpg" />
-    <rating system="US">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20260125022400 +0000" stop="20260125043700 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Long Shot</title>
-    <desc lang="en">A journalist reunites with his childhood crush, now one of the most influential women in the world.</desc>
-    <date>2019</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2796fe964aded435c0b2d96450bc143e.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125043700 +0000" stop="20260125064400 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Friends with Kids</title>
-    <desc lang="en">Two best friends decide to have a child together while keeping their relationship platonic.</desc>
-    <date>2011</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Drama</category>
-    <category lang="en">Romance</category>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4fbc8a6f8d6aa38c0fe8af25167773b3.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125064400 +0000" stop="20260125084200 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Booksmart</title>
-    <desc lang="en">Two overachieving friends decide to cram four years of fun into the eve of their high school graduation.</desc>
-    <date>2019</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://metadata-static.plex.tv/4/gracenote/4d5f48ad3a2a757f94aa123765e6abe4.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125084200 +0000" stop="20260125104300 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Girl Most Likely</title>
-    <desc lang="en">A hapless writer living in New York moves back to the comfort of her mother's house in New Jersey.</desc>
-    <date>2012</date>
-    <category lang="en">Comedy</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/65d43566efee9d302816e3bf1511fa39.jpg" />
-    <rating system="US">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20260125104300 +0000" stop="20260125125600 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Long Shot</title>
-    <desc lang="en">A journalist reunites with his childhood crush, now one of the most influential women in the world.</desc>
-    <date>2019</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <icon src="https://metadata-static.plex.tv/2/gracenote/2796fe964aded435c0b2d96450bc143e.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125125600 +0000" stop="20260125150700 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">The Spy Who Dumped Me</title>
-    <desc lang="en">Two friends become entangled in a conspiracy when one of them discovers the boyfriend who dumped her was a spy.</desc>
-    <date>2018</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0d405a88213c679f8d18d2f141a3582c.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125150700 +0000" stop="20260125170600 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Killers</title>
-    <desc lang="en">Spencer is an assassin in love. But a picture-perfect marriage will not save the couple from becoming targets.</desc>
-    <date>2012</date>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/bc61e799ea95502d08ec63db32666e8e.jpg" />
-    <rating system="US">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20260125170600 +0000" stop="20260125191000 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">The Gentlemen</title>
-    <desc lang="en">A British drug lord tries to sell off his highly profitable empire to a dynasty of Oklahoma billionaires.</desc>
-    <date>2020</date>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Comedy</category>
-    <icon src="https://metadata-static.plex.tv/9/gracenote/9adb610bbcb56c9cd1db3cef95bb079f.jpg" />
-    <premiere lang="en" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125191000 +0000" stop="20260125212400 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">The Brothers Bloom</title>
-    <desc lang="en">Stephen and his brother Bloom work one last job; conning a beautiful young heiress out of her cash.</desc>
-    <date>2008</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <category lang="en">Comedy</category>
-    <category lang="en">Romance</category>
-    <category lang="en">Crime</category>
-    <icon src="https://metadata-static.plex.tv/7/gracenote/74040afeaf93105330d21098237b56b2.jpg" />
-    <rating system="US">
-      <value>PG-13</value>
-    </rating>
-  </programme>
-  <programme start="20260125212400 +0000" stop="20260125233400 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">The Spy Who Dumped Me</title>
-    <desc lang="en">Two friends become entangled in a conspiracy when one of them discovers the boyfriend who dumped her was a spy.</desc>
-    <date>2018</date>
-    <category lang="en">Comedy</category>
-    <category lang="en">Action</category>
-    <category lang="en">Adventure</category>
-    <icon src="https://metadata-static.plex.tv/0/gracenote/0d405a88213c679f8d18d2f141a3582c.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125233400 +0000" stop="20260126013100 +0000" channel="plex.tv.MOVIESPHERE.plex">
-    <title lang="en">Killers</title>
-    <desc lang="en">Spencer is an assassin in love. But a picture-perfect marriage will not save the couple from becoming targets.</desc>
-    <date>2012</date>
-    <category lang="en">Action</category>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/bc61e799ea95502d08ec63db32666e8e.jpg" />
-    <rating system="US">
-      <value>PG-13</value>
-    </rating>
-  </programme>
   <programme start="20260126013100 +0000" stop="20260126033500 +0000" channel="plex.tv.MOVIESPHERE.plex">
     <title lang="en">The Gentlemen</title>
     <desc lang="en">A British drug lord tries to sell off his highly profitable empire to a dynasty of Oklahoma billionaires.</desc>
@@ -2118,143 +1587,6 @@
       <value>TV-14</value>
     </rating>
   </programme>
-  <programme start="20260125000500 +0000" stop="20260125015500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Thunder</title>
-    <desc lang="en">A young Indian turns into a one-man army determined to punish the local authorities that are abusing his fellow tribe members.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125015500 +0000" stop="20260125040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Fist Of Fury</title>
-    <desc lang="en">Bruce Lee's first chop-socky movie (made in Hong Kong) is action-filled and violent.</desc>
-    <date>1972</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Romance</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/62c55c8903853040c28103448aecaa77.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125040000 +0000" stop="20260125060500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Dreamscape</title>
-    <desc lang="en">A man who can enter and manipulate people's dreams is recruited by a government agency to help cure the President of the United States of his nightmares about nuclear war but stumbles upon an assassination plot.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125060500 +0000" stop="20260125075500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Thunder</title>
-    <desc lang="en">A young Indian turns into a one-man army determined to punish the local authorities that are abusing his fellow tribe members.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125075500 +0000" stop="20260125100000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Fist Of Fury</title>
-    <desc lang="en">Bruce Lee's first chop-socky movie (made in Hong Kong) is action-filled and violent.</desc>
-    <date>1972</date>
-    <category lang="en">Drama</category>
-    <category lang="en">Action</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Romance</category>
-    <icon src="https://metadata-static.plex.tv/6/gracenote/62c55c8903853040c28103448aecaa77.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125100000 +0000" stop="20260125114500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Dragon Princess</title>
-    <desc lang="en">When the king of karate and his dragon princess confront the blind master of the bloody blades, sparks fly.</desc>
-    <date>1976</date>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125114500 +0000" stop="20260125135500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Magnum Cop</title>
-    <desc lang="en">An Italian private investigator tries to get to the bottom of a suspicious kidnapping case with the help of an exotic dancer.</desc>
-    <date>1978</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b609470ca3d59b397ceb896eda0cb831.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125135500 +0000" stop="20260125160000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Nightmare</title>
-    <desc lang="en">A mental-patient, who is troubled with horrible nightmares, has escaped from his hospital. Now on the streets he can’t help killing innocent people. But there is one family he is more than interested in and when he tries to kill them, he finds that it’s not that easy.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125160000 +0000" stop="20260125174500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Dragon Princess</title>
-    <desc lang="en">When the king of karate and his dragon princess confront the blind master of the bloody blades, sparks fly.</desc>
-    <date>1976</date>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125174500 +0000" stop="20260125195500 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Magnum Cop</title>
-    <desc lang="en">An Italian private investigator tries to get to the bottom of a suspicious kidnapping case with the help of an exotic dancer.</desc>
-    <date>1978</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b609470ca3d59b397ceb896eda0cb831.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125195500 +0000" stop="20260125220000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Nightmare</title>
-    <desc lang="en">A mental-patient, who is troubled with horrible nightmares, has escaped from his hospital. Now on the streets he can’t help killing innocent people. But there is one family he is more than interested in and when he tries to kill them, he finds that it’s not that easy.</desc>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125220000 +0000" stop="20260125235000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Dragon Princess</title>
-    <desc lang="en">When the king of karate and his dragon princess confront the blind master of the bloody blades, sparks fly.</desc>
-    <date>1976</date>
-    <category lang="en">Action</category>
-    <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125235000 +0000" stop="20260126020000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
-    <title lang="en">Magnum Cop</title>
-    <desc lang="en">An Italian private investigator tries to get to the bottom of a suspicious kidnapping case with the help of an exotic dancer.</desc>
-    <date>1978</date>
-    <category lang="en">Crime</category>
-    <category lang="en">Thriller</category>
-    <category lang="en">Action</category>
-    <icon src="https://metadata-static.plex.tv/b/gracenote/b609470ca3d59b397ceb896eda0cb831.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260126020000 +0000" stop="20260126040000 +0000" channel="plex.tv.Action.Hollywood.Movies.plex">
     <title lang="en">Nightmare</title>
     <desc lang="en">A mental-patient, who is troubled with horrible nightmares, has escaped from his hospital. Now on the streets he can’t help killing innocent people. But there is one family he is more than interested in and when he tries to kill them, he finds that it’s not that easy.</desc>
@@ -2577,158 +1909,6 @@
     <icon src="https://d1vdh8oh1djfv9.cloudfront.net/AHDAUS/default_ah.jpg" />
     <rating system="US">
       <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125001000 +0000" stop="20260125015500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">May the Best Wedding Win</title>
-    <desc lang="en">Tiffany and her frenemy compete over wedding bookings, despite her not having a real fiancé.</desc>
-    <date>2022</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/MayTheBestWeddingWin_feature-eng.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125015500 +0000" stop="20260125034500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">My Mother's Future Husband</title>
-    <desc lang="en">A mother and daughter work through the pain of the past so they can open their hearts to the future.</desc>
-    <date>2014</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10032389_MyMothersFutureHusband_Film_H264.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125034500 +0000" stop="20260125053000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Paparazzi Princess: The Paris Hilton Story</title>
-    <desc lang="en">A closer look at the lavish lifestyles of Hollywood Heiress' Paris Hilton, Nicole Richie, and Lindsay Lohan.</desc>
-    <date>2008</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031345_PaparazziPrincessTheParisHilt_Film_H264.jpg" />
-    <rating system="US">
-      <value>PG-16</value>
-    </rating>
-  </programme>
-  <programme start="20260125053000 +0000" stop="20260125072000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">For the Love of Lily</title>
-    <desc lang="en">A career-minded city girl must build a garden with a plant-loving country boy to appease her boss.</desc>
-    <date>2023</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/FortheLoveofLily-feature-eng-v2.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125072000 +0000" stop="20260125090500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Courage</title>
-    <desc lang="en">Jason Priestley stars in this inspirational adventure story about courage, love and the power of family.</desc>
-    <date>2016</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/883476068312_Courage_Film_H264.jpg" />
-    <rating system="US">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125090500 +0000" stop="20260125093200 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">New Dogs, Old Tricks</title>
-    <desc lang="en">Tiny’s bar will close unless he pays $17K; customers rally to save it. Meanwhile, Jay’s hazing alarms.</desc>
-    <date>2018</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Newdogsoldtricksep7-tv.jpg" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125093200 +0000" stop="20260125100000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">New Dogs, Old Tricks</title>
-    <desc lang="en">Alan handles Women’s Lit as Tiny’s Place plan is approved.</desc>
-    <date>2018</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Newdogsoldtricksep7-tv.jpg" />
-    <episode-num system="onscreen">S1 E2</episode-num>
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125100000 +0000" stop="20260125114500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Falling For the Competition</title>
-    <desc lang="en">A local mom’s and dad’s group clash for the prestigious Modern Parenting Group of the Year award.</desc>
-    <date>2023</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/FallingFortheCompetition-feature-eng.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125114500 +0000" stop="20260125133500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Buried Secrets</title>
-    <desc lang="en">A cop-turned-writer creates suspicion when she publishes her first novel.</desc>
-    <date>2014</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031472_BuriedSecrets_Film_H264.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125133500 +0000" stop="20260125152000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Cradle of Lies</title>
-    <desc lang="en">Marissa was in a coma while pregnant and wakes up five years later to find that the baby she delivered is gone.</desc>
-    <date>2016</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/CEG10031305_CradleofLies_Film_H264.jpg" />
-    <rating system="US">
-      <value>TV-14</value>
-    </rating>
-  </programme>
-  <programme start="20260125152000 +0000" stop="20260125171000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">From Italy with Amore</title>
-    <desc lang="en">In the quest to find her dream man, Ariel meets Daniel who shows that food is the way to her heart.</desc>
-    <date>2022</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/FromItalywithAmore-feature-eng.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125171000 +0000" stop="20260125185500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Fatal Performance</title>
-    <desc lang="en">A struggling actress is hired to impersonate a woman for a business meeting, but soon finds her life in danger.</desc>
-    <date>2014</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/Default_MyTime_1920x1080.png" />
-    <rating system="US">
-      <value>NR</value>
-    </rating>
-  </programme>
-  <programme start="20260125185500 +0000" stop="20260125204500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Falling for the Manny</title>
-    <desc lang="en">Alice is up for partner at her firm and hires her sister’s manny, Jacob, to help with her daughter.</desc>
-    <date>2022</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/FallingfortheManny-feature-eng.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125204500 +0000" stop="20260125223000 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Love Served Here</title>
-    <desc lang="en">A chef bets she can turn around the worst restaurant in the city but ends up falling for the owner.</desc>
-    <date>2022</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/LoveServedHere-feature-eng.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125223000 +0000" stop="20260126001500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
-    <title lang="en">Love at First Like</title>
-    <desc lang="en">A journalist covering the Don Juan of dating apps ends up finding there's more than meets the eye.</desc>
-    <date>2022</date>
-    <category lang="en">Movies</category>
-    <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/LoveAtFirstLike_feature-eng.jpg" />
-    <rating system="US">
-      <value>TV-G</value>
     </rating>
   </programme>
   <programme start="20260126001500 +0000" stop="20260126020500 +0000" channel="plex.tv.MyTime.Movie.Network.plex">
@@ -3174,570 +2354,6 @@
     <icon src="https://d3jmt8cffgn8py.cloudfront.net/MYTIME/MeetYouinScotland-feature-eng.jpg" />
     <rating system="US">
       <value>TV-G</value>
-    </rating>
-  </programme>
-  <programme start="20260125000000 +0000" stop="20260125003000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">The Color Purple / American Fiction</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Color Purple", "American Fiction", "The Boys in the Boat", "Ferrari", and "Migration".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E16</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125003000 +0000" stop="20260125010000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Tarantino Loves Movies</title>
-    <desc lang="en">Interviews with Quentin Tarantino and the casts of "Once Upon a Time...in Hollywood” and “The Hateful Eight.”.</desc>
-    <date>2020</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodes/522-2570/1070808-default_v3.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125010000 +0000" stop="20260125013000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Reel Revolution: Women at the Helm</title>
-    <desc lang="en">Interviews with the female directors of "Barbie", "Sitting in Bars with Cake", "Cocaine Bear", "Past Lives", "Flamin' Hot", and "Are You There God? It's Me, Margaret.".</desc>
-    <date>2023</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23688-25736/48524187-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125013000 +0000" stop="20260125020000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Mea Culpa/Upgraded/Bleeding Love</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Mea Culpa", "Parallel", "Upgraded", "Bleeding Love", "Memory", and "Marmalade".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125020000 +0000" stop="20260125023000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Kingdom of the Planet of the Apes</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Kingdom of the Planet of the Apes", "Poolman", "Tarot", "Turtles All the Way Down", and Breathe".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E34</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125023000 +0000" stop="20260125030000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Boy Kills World/Humane/We Grown Now</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Boy Kills World", "Humane", "We Grown Now", "Sweet Dreams", "Renegade Nell", and "Arcadian".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E30</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125030000 +0000" stop="20260125033000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">The First Omen / Música / DogMan</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The First Omen", "Wicked Little Letters", "DogMan", "Música", and "Asphalt City".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E30</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125033000 +0000" stop="20260125040000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Immaculate/Cabrini/Sleeping Dogs</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Immaculate", "The American Society of Magical Negroes", "Cabrini", "Sleeping Dogs", "Genius: MLK/X", and "The Archies".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E26</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125040000 +0000" stop="20260125043000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Celebration of Animation</title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Garfield Movie", "Kung Fu Panda 4", "Migration", "Chicken Run: Dawn of the Nugget", and "Wish".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/28884-30932/59190433-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125043000 +0000" stop="20260125050000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Imaginary / Red Right Hand / Lola</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Imaginary", "The Neon Highway", "Red Right Hand", "Lola", "American Star", and "Popular Theory".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125050000 +0000" stop="20260125053000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Ghostbusters/Immaculate/One Life</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Ghostbusters: Frozen Empire", "Immaculate", "One Life", "French Girl", and "3 Body Problem".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E28</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125053000 +0000" stop="20260125060000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Back to Black / Tarot / Fallout</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Back to Black", "Tarot", "The Greatest Hits", "Fallout", "The Absence of Eden", and "Spaceman".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E32</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125060000 +0000" stop="20260125063000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Mean Girls / The Beekeeper</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Mean Girls", "The Book of Clarence", "The Beekeeper", "Memory", and "Good Grief".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E18</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125063000 +0000" stop="20260125070000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood TEEN</title>
-    <sub-title lang="en">Dramatic Documentaries</sub-title>
-    <desc lang="en">Interviews and career advice from some of today’s top documentary filmmakers.</desc>
-    <date>2021</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/59-2107/Made-in-Hollywood-TEEN-TEEN-Logo.png" />
-    <episode-num system="onscreen">S15 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125070000 +0000" stop="20260125073000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Fright Night Special</title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Exorcist: Believer", "In the Fire", "Saw X", "It Lives Inside", "The Changeling", and "A Haunting in Venice".</desc>
-    <date>2023</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24602-26650/50399506-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125073000 +0000" stop="20260125080000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Arthur the King / Kung Fu Panda 4</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Arthur the King", "The American Society of Magical Negroes", "Kung Fu Panda 4", "5lbs of Pressure", and "The Greatest Love Story Never Told".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E27</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125080000 +0000" stop="20260125083000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">The Color Purple / American Fiction</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Color Purple", "American Fiction", "The Boys in the Boat", "Ferrari", and "Migration".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E16</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125083000 +0000" stop="20260125090000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Tarantino Loves Movies</title>
-    <desc lang="en">Interviews with Quentin Tarantino and the casts of "Once Upon a Time...in Hollywood” and “The Hateful Eight.”.</desc>
-    <date>2020</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodes/522-2570/1070808-default_v3.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125090000 +0000" stop="20260125093000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Reel Revolution: Women at the Helm</title>
-    <desc lang="en">Interviews with the female directors of "Barbie", "Sitting in Bars with Cake", "Cocaine Bear", "Past Lives", "Flamin' Hot", and "Are You There God? It's Me, Margaret.".</desc>
-    <date>2023</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23688-25736/48524187-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125093000 +0000" stop="20260125100000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Mea Culpa/Upgraded/Bleeding Love</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Mea Culpa", "Parallel", "Upgraded", "Bleeding Love", "Memory", and "Marmalade".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125100000 +0000" stop="20260125103000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Kingdom of the Planet of the Apes</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Kingdom of the Planet of the Apes", "Poolman", "Tarot", "Turtles All the Way Down", and Breathe".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E34</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125103000 +0000" stop="20260125110000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Boy Kills World/Humane/We Grown Now</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Boy Kills World", "Humane", "We Grown Now", "Sweet Dreams", "Renegade Nell", and "Arcadian".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E30</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125110000 +0000" stop="20260125113000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">The First Omen / Música / DogMan</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The First Omen", "Wicked Little Letters", "DogMan", "Música", and "Asphalt City".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E30</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125113000 +0000" stop="20260125120000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Immaculate/Cabrini/Sleeping Dogs</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Immaculate", "The American Society of Magical Negroes", "Cabrini", "Sleeping Dogs", "Genius: MLK/X", and "The Archies".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E26</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125120000 +0000" stop="20260125123000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Celebration of Animation</title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Garfield Movie", "Kung Fu Panda 4", "Migration", "Chicken Run: Dawn of the Nugget", and "Wish".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/28884-30932/59190433-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125123000 +0000" stop="20260125130000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Imaginary / Red Right Hand / Lola</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Imaginary", "The Neon Highway", "Red Right Hand", "Lola", "American Star", and "Popular Theory".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125130000 +0000" stop="20260125133000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Ghostbusters/Immaculate/One Life</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Ghostbusters: Frozen Empire", "Immaculate", "One Life", "French Girl", and "3 Body Problem".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E28</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125133000 +0000" stop="20260125140000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Back to Black / Tarot / Fallout</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Back to Black", "Tarot", "The Greatest Hits", "Fallout", "The Absence of Eden", and "Spaceman".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E32</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125140000 +0000" stop="20260125143000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Mean Girls / The Beekeeper</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Mean Girls", "The Book of Clarence", "The Beekeeper", "Memory", and "Good Grief".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E18</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125143000 +0000" stop="20260125150000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood TEEN</title>
-    <sub-title lang="en">Dramatic Documentaries</sub-title>
-    <desc lang="en">Interviews and career advice from some of today’s top documentary filmmakers.</desc>
-    <date>2021</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/59-2107/Made-in-Hollywood-TEEN-TEEN-Logo.png" />
-    <episode-num system="onscreen">S15 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125150000 +0000" stop="20260125153000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Fright Night Special</title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Exorcist: Believer", "In the Fire", "Saw X", "It Lives Inside", "The Changeling", and "A Haunting in Venice".</desc>
-    <date>2023</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24602-26650/50399506-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125153000 +0000" stop="20260125160000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Arthur the King / Kung Fu Panda 4</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Arthur the King", "The American Society of Magical Negroes", "Kung Fu Panda 4", "5lbs of Pressure", and "The Greatest Love Story Never Told".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E27</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125160000 +0000" stop="20260125163000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">The Color Purple / American Fiction</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Color Purple", "American Fiction", "The Boys in the Boat", "Ferrari", and "Migration".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E16</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125163000 +0000" stop="20260125170000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Tarantino Loves Movies</title>
-    <desc lang="en">Interviews with Quentin Tarantino and the casts of "Once Upon a Time...in Hollywood” and “The Hateful Eight.”.</desc>
-    <date>2020</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodes/522-2570/1070808-default_v3.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125170000 +0000" stop="20260125173000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Reel Revolution: Women at the Helm</title>
-    <desc lang="en">Interviews with the female directors of "Barbie", "Sitting in Bars with Cake", "Cocaine Bear", "Past Lives", "Flamin' Hot", and "Are You There God? It's Me, Margaret.".</desc>
-    <date>2023</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/23688-25736/48524187-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125173000 +0000" stop="20260125180000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Mea Culpa/Upgraded/Bleeding Love</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Mea Culpa", "Parallel", "Upgraded", "Bleeding Love", "Memory", and "Marmalade".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125180000 +0000" stop="20260125183000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Kingdom of the Planet of the Apes</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Kingdom of the Planet of the Apes", "Poolman", "Tarot", "Turtles All the Way Down", and Breathe".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E34</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125183000 +0000" stop="20260125190000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Boy Kills World/Humane/We Grown Now</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Boy Kills World", "Humane", "We Grown Now", "Sweet Dreams", "Renegade Nell", and "Arcadian".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E30</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125190000 +0000" stop="20260125193000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">The First Omen / Música / DogMan</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The First Omen", "Wicked Little Letters", "DogMan", "Música", and "Asphalt City".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E30</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125193000 +0000" stop="20260125200000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Immaculate/Cabrini/Sleeping Dogs</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Immaculate", "The American Society of Magical Negroes", "Cabrini", "Sleeping Dogs", "Genius: MLK/X", and "The Archies".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E26</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125200000 +0000" stop="20260125203000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Celebration of Animation</title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Garfield Movie", "Kung Fu Panda 4", "Migration", "Chicken Run: Dawn of the Nugget", and "Wish".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/28884-30932/59190433-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125203000 +0000" stop="20260125210000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Imaginary / Red Right Hand / Lola</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Imaginary", "The Neon Highway", "Red Right Hand", "Lola", "American Star", and "Popular Theory".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E23</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125210000 +0000" stop="20260125213000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Ghostbusters/Immaculate/One Life</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Ghostbusters: Frozen Empire", "Immaculate", "One Life", "French Girl", and "3 Body Problem".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E28</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125213000 +0000" stop="20260125220000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Moviefone TV</title>
-    <sub-title lang="en">Back to Black / Tarot / Fallout</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Back to Black", "Tarot", "The Greatest Hits", "Fallout", "The Absence of Eden", and "Spaceman".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/3152-5200/6456655-MFTV-LOGO_v1.jpg" />
-    <episode-num system="onscreen">S3 E32</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125220000 +0000" stop="20260125223000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Mean Girls / The Beekeeper</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Mean Girls", "The Book of Clarence", "The Beekeeper", "Memory", and "Good Grief".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E18</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125223000 +0000" stop="20260125230000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood TEEN</title>
-    <sub-title lang="en">Dramatic Documentaries</sub-title>
-    <desc lang="en">Interviews and career advice from some of today’s top documentary filmmakers.</desc>
-    <date>2021</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/59-2107/Made-in-Hollywood-TEEN-TEEN-Logo.png" />
-    <episode-num system="onscreen">S15 E22</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125230000 +0000" stop="20260125233000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Fright Night Special</title>
-    <desc lang="en">Interviews with the cast and filmmakers of "The Exorcist: Believer", "In the Fire", "Saw X", "It Lives Inside", "The Changeling", and "A Haunting in Venice".</desc>
-    <date>2023</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::episodemeta/24602-26650/50399506-default_v1.png" />
-    <episode-num system="onscreen">S1 E1</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
-    </rating>
-  </programme>
-  <programme start="20260125233000 +0000" stop="20260126000000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
-    <title lang="en">Made in Hollywood</title>
-    <sub-title lang="en">Arthur the King / Kung Fu Panda 4</sub-title>
-    <desc lang="en">Interviews with the cast and filmmakers of "Arthur the King", "The American Society of Magical Negroes", "Kung Fu Panda 4", "5lbs of Pressure", and "The Greatest Love Story Never Told".</desc>
-    <date>2024</date>
-    <category lang="en">Daytime tv</category>
-    <icon src="https://dki01q1l7yn3y.cloudfront.net/thumbnails-platform-prod/assets/cs::content::shows/48-2096/Made-in-Hollywood-MIHTV-LOGO-jpg.jpg" />
-    <episode-num system="onscreen">S19 E27</episode-num>
-    <rating system="US">
-      <value>TV-PG</value>
     </rating>
   </programme>
   <programme start="20260126000000 +0000" stop="20260126003000 +0000" channel="plex.tv.Made.In.Hollywood.plex">
@@ -5422,201 +4038,6 @@
     <icon src="https://tvwish.com/Img/Channel/694.png" />
     <url>http://www.tvwish.com</url>
   </channel>
-  <programme start="20260125000000 +0530" stop="20260125002000 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">She's Out of My League</title>
-    <desc lang="en-GB">An insecure airport security officer’s world shifts when a confident and beautiful woman shows interest in him, forcing him to confront self-doubt and social expectations.</desc>
-    <credits>
-      <director>Jim Field Smith,Sean Anders,John Morris</director>
-      <actor>Jay Baruchel,Alice Eve,T.J. Miller,Mike Vogel,Nate Torrence,Krysten Ritter,Geoff Stults,Lindsay Sloane,Debra Jo Rupp,Adam LeFevre,Kim Shaw,Sharon Maugham,Trevor Eve</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/22fdb683d67ce9472fd1d859ac26a3dd.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125002000 +0530" stop="20260125021500 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Safe Haven</title>
-    <desc lang="en-GB">A mysterious young woman arrives in Southport, North Carolina, and falls in love with a widowed store owner. However, her dark past intrudes in her new life.</desc>
-    <credits>
-      <director>Lasse Hallström,Dana Stevens,Gage Lansky</director>
-      <actor>Josh Duhamel,Julianne Hough,Cobie Smulders,David Lyons,Noah Lomax,Mimi Kirkland,Irene Ziegler,Jon Kohler</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/0188f3a72ef5a39de8f2c9167c0e8a0e.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125021500 +0530" stop="20260125025100 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">DSC</title>
-    <desc lang="en-GB">Talented directors provide an entertaining insight into the most intriguing stories and anecdotes concerning some of their best works.</desc>
-    <credits>
-      <actor>Ensemble Cast</actor>
-    </credits>
-    <category lang="en-GB">178</category>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/4f364875dfc1b08ab630dd23591762e6.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125025100 +0530" stop="20260125030000 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Romedy Now</title>
-    <desc lang="en-GB">The host sheds light on various popular individuals from different walks of life and highlights their individual journeys to stardom.</desc>
-    <category lang="en-GB">178</category>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/2392598649d71b34346699ce8e58bc64.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125030000 +0530" stop="20260125042500 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Fallen</title>
-    <desc lang="en-GB">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, questions arise when the murders start again, eerily matching the modus operandi of Reese.</desc>
-    <credits>
-      <director>Gregory Hoblit</director>
-      <actor>Denzel Washington,John Goodman,Donald Sutherland,Embeth Davidtz,James Gandolfini,Elias Koteas,Gabriel Casseus,Michael J. Pagan,Robert Joy,Bill Clark</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f9866ae8038f20fa9cab69827a474f77.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125042500 +0530" stop="20260125060700 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">The Rewrite</title>
-    <desc lang="en-GB">Keith Michaels, an Oscar-winning writer, teaches at the Binghamton University on the East Coast after losing his popularity in Hollywood and falls in love with Holly, a fellow teacher.</desc>
-    <credits>
-      <director>Marc Lawrence,Marc Lawrence</director>
-      <actor>Hugh Grant,Marisa Tomei,Bella Heathcote,Allison Janney,J.K. Simmons,Chris Elliott,Aja Naomi King,Annie Q,Andrew Keenan-Bolger,Karen Pittman,Maggie Geha,Steven Kaplan</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/aa5223511902b8c2397f1c1313a56961.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125060700 +0530" stop="20260125065500 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">The Love Laugh Live Show</title>
-    <desc lang="en-GB">The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
-    <credits>
-      <actor>Mandira Bedi,Shibani Dandekar</actor>
-    </credits>
-    <category lang="en-GB">178</category>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1d6a87faa3ea73c628b65d57008f866f.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125065500 +0530" stop="20260125074100 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">The Love Laugh Live Show</title>
-    <desc lang="en-GB">The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
-    <credits>
-      <actor>Mandira Bedi,Shibani Dandekar</actor>
-    </credits>
-    <category lang="en-GB">178</category>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1d6a87faa3ea73c628b65d57008f866f.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125074100 +0530" stop="20260125091200 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Lay the Favorite</title>
-    <desc lang="en-GB">Ambitious about living the life of a cocktail waitress, a lap dancer tries her luck in Las Vegas. However, her life takes an unexpected turn after she falls in love with a sports gambler.</desc>
-    <credits>
-      <director>Stephen Frears,D.V. DeVincentis</director>
-      <actor>Bruce Willis,Rebecca Hall,Catherine Zeta-Jones,Vince Vaughn,Joshua Jackson,Laura Prepon,Frank Grillo,Wayne Pere,John Carroll Lynch,Corbin Bernsen</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e9a9e1112c5b1868ef4ff2e48198e701.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125091200 +0530" stop="20260125105600 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Aloha</title>
-    <desc lang="en-GB">A celebrated military contractor reconnects with a long-lost love while falling for the air-force officer assigned to him.</desc>
-    <credits>
-      <director>Cameron Crowe,Cameron Crowe</director>
-      <actor>Bradley Cooper,Emma Stone,Rachel McAdams,Bill Murray,John Krasinski,Danny McBride,Alec Baldwin,Bill Camp,Dennis \"Bumpy\" Kanahele,Danielle Rose Russell,Jaeden Lieberher</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e961b76e724d7be8ec8ae824e9f2e8b8.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125105600 +0530" stop="20260125123200 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Big Momma's House 2</title>
-    <desc lang="en-GB">Malcolm Turner, an FBI agent, reprises his disguise as a Southern grandmother and works as a nanny to unveil the culprits responsible for designing a deadly computer virus.</desc>
-    <credits>
-      <director>John Whitesell</director>
-      <actor>Martin Lawrence,Nia Long,Emily Procter,Zachary Levi,Mark Moses,Kat Dennings,Chloe Grace Moretz,Marisol Nichols,Sarah Brown,Michelle Parylak,Elton LeBlanc</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ccf148d4820ce24d63767c190633f744.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125123200 +0530" stop="20260125141300 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Burnt</title>
-    <desc lang="en-GB">Fallen from grace, ill-tempered chef Adam Jones returns to London, determined to reclaim his torn glory by leading his crew towards the third michelin star.</desc>
-    <credits>
-      <director>John Wells,Steven Knight</director>
-      <actor>Bradley Cooper,Sienna Miller,Omar Sy,Daniel Brühl,Riccardo Scamarcio,Sam Keeley,Alicia Vikander,Matthew Rhys,Uma Thurman,Emma Thompson,Lily James,Sarah Greene,Jamie Dornan</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/796dffffed2fdb372f20a6ab6d4f6c13.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125141300 +0530" stop="20260125154500 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Due Date</title>
-    <desc lang="en-GB">Peter Highman must reach Los Angeles to make it in time for his child's birth. However, he is forced to travel with Ethan, an aspiring actor, who frequently lands him in trouble.</desc>
-    <credits>
-      <director>Todd Phillips,Alan R. Cohen,Alan Freedland,Adam Sztykiel,Todd Phillips</director>
-      <actor>Robert Downey Jr.,Zach Galifianakis,Michelle Monaghan,Jamie Foxx,Juliette Lewis,Danny McBride,RZA,Matt Walsh</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/628a60bef91fa1f95b3e851f130c0477.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125154500 +0530" stop="20260125173000 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Guess Who</title>
-    <desc lang="en-GB">Percy Jones, a proud African American man, gets the shock of his life when he learns that his daughter Theresa's fiance is a Caucasian man.</desc>
-    <credits>
-      <director>Kevin Rodney Sullivan</director>
-      <actor>Bernie Mac,Ashton Kutcher,Zoe Saldana,Judith Scott,Hal Williams,Kellee Stewart,Robert Curtis-Brown,RonReaco Lee,Paula Newsome,Nicole Sullivan,Jessica Cauffiel,Phil Reeves,Chad Gabriel,Gus Lynch,Sherri Shepherd</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/90a43af66f73e19c5d5a50387ff6fff9.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125173000 +0530" stop="20260125191500 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Big Mommas: Like Father, Like Son</title>
-    <desc lang="en-GB">After FBI agent Malcolm Turner's stepson, Trent, witnesses a murder, the two are forced to go undercover. While Malcolm turns into Big Momma, Trent disguises himself as Charmaine.</desc>
-    <credits>
-      <director>John Whitesell,Matthew Fogel</director>
-      <actor>Martin Lawrence,Brandon T. Jackson,Jessica Lucas,Portia Doubleday,Tony Curran,Ana Ortiz,Sherri Shepherd,Michelle Ang,Emily Rios,Henri Lubatti,Lorenzo Pisoni,Max Casella,Marc John Jefferies,Brandon Gill,Zack Mines,Trey Lindsey,Ken Jeong</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ba66493d214644f4ca2e281953894ee1.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125191500 +0530" stop="20260125210000 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Firehouse Dog</title>
-    <desc lang="en-GB">Rexxx, a top Hollywood canine, gets lost and finds himself in a warehouse. He slowly realises his capabilities as a firehouse dog and befriends a young child to revamp the fire station.</desc>
-    <credits>
-      <director>Todd Holland</director>
-      <actor>Josh Hutcherson,Bruce Greenwood,Dash Mihok,Steven Culp,Bill Nunn,Bree Turner,Scotch Ellis Loring,Mayte Garcia,Teddy Sears,Shane Daly,Hannah Lochner,Claudette Mink,Matt Cooke,Katie Finneran,Brandon Craggs,Kathryn Haggis</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/7c5ee428378c41a5ca8a9ae6435c764f.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125210000 +0530" stop="20260125224500 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Sleepless in Seattle</title>
-    <desc lang="en-GB">Realising that Sam has still not come to terms with his wife Maggie's death, his eight-year-old son Jonah forces him to call a national radio talk show, with the hopes of finding him a companion.</desc>
-    <credits>
-      <director>Nora Ephron,Nora Ephron,David S. Ward,Jeff Arch</director>
-      <actor>Tom Hanks,Meg Ryan,Bill Pullman,Ross Malinger,Rosie O'Donnell,Rob Reiner,Gaby Hoffman,Victor Garber,Rita Wilson,Barbara Garrick,Carey Lowell,Calvin Trillin,Dana Ivey,David Hyde Pierce</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ecac0c978e35bdee394d6a3d4ed34a28.jpg" />
-    <premiere />
-  </programme>
-  <programme start="20260125224500 +0530" stop="20260125235959 +0530" channel="Romedy.Now.in">
-    <title lang="en-GB">Bad Teacher</title>
-    <desc lang="en-GB">With the intention of getting a breast implant, Elizabeth becomes a high school substitute teacher. However, when she learns about a bountiful bonus, she strives to get her students the highest marks.</desc>
-    <credits>
-      <director>Jake Kasdan,Gene Stupnitsky,Lee Eisenberg</director>
-      <actor>Cameron Diaz,Justin Timberlake,Jason Segel,Lucy Punch,John Michael Higgins,Phyllis Smith,Thomas Lennon,Molly Shannon,Eric Stonestreet,Dave \"Gruber\" Allen,Matthew J. Evans,Kaitlyn Dever,Kathryn Newton,Igal Ben Yair,David Paymer,Alanna Ubach</actor>
-    </credits>
-    <category lang="en-GB">177</category>
-    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/79b225eaa2420c63bee72385fe98ee34.jpg" />
-    <premiere />
-  </programme>
   <programme start="20260126000000 +0530" stop="20260126001100 +0530" channel="Romedy.Now.in">
     <title lang="en-GB">Bad Teacher</title>
     <desc lang="en-GB">With the intention of getting a breast implant, Elizabeth becomes a high school substitute teacher. However, when she learns about a bountiful bonus, she strives to get her students the highest marks.</desc>
@@ -6190,6 +4611,193 @@
     <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fbbcf3f0a8d9b275c710c1f5da394211.jpg" />
     <premiere />
   </programme>
+  <programme start="20260129000000 +0530" stop="20260129004600 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Bridget Jones's Baby</title>
+    <desc lang="en-GB">After breaking up with Mark, Bridget meets a handsome stranger, Jack. Soon, Bridget finds out that she is pregnant but is unsure about the identity of the father.</desc>
+    <credits>
+      <director>Sharon Maguire,Helen Fielding,Dan Mazer,Emma Thompson</director>
+      <actor>Renée Zellweger,Colin Firth,Patrick Dempsey,Emma Thompson,Shirley Henderson,Jim Broadbent,Celia Imrie,James Callis,Sarah Solemani,Gemma Jones,Sally Phillips,Ed Sheeran</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/fbbcf3f0a8d9b275c710c1f5da394211.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129004600 +0530" stop="20260129023200 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">The Rewrite</title>
+    <desc lang="en-GB">Keith Michaels, an Oscar-winning writer, teaches at the Binghamton University on the East Coast after losing his popularity in Hollywood and falls in love with Holly, a fellow teacher.</desc>
+    <credits>
+      <director>Marc Lawrence,Marc Lawrence</director>
+      <actor>Hugh Grant,Marisa Tomei,Bella Heathcote,Allison Janney,J.K. Simmons,Chris Elliott,Aja Naomi King,Annie Q,Andrew Keenan-Bolger,Karen Pittman,Maggie Geha,Steven Kaplan</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/aa5223511902b8c2397f1c1313a56961.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129023200 +0530" stop="20260129030000 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Hollywood on Set</title>
+    <desc lang="en-GB">The key aspects of filmmaking are explored, with behind-the-scenes insights and intriguing interviews with prominent cast and crew members.</desc>
+    <credits>
+      <director>Guy Handelman</director>
+    </credits>
+    <category lang="en-GB">178</category>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/e5af6f82492e17ec4be6c006c13a3638.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129030000 +0530" stop="20260129042500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Fallen</title>
+    <desc lang="en-GB">Detective John Hobbes witnesses the execution of a demonic serial killer, Edgar Reese. However, questions arise when the murders start again, eerily matching the modus operandi of Reese.</desc>
+    <credits>
+      <director>Gregory Hoblit</director>
+      <actor>Denzel Washington,John Goodman,Donald Sutherland,Embeth Davidtz,James Gandolfini,Elias Koteas,Gabriel Casseus,Michael J. Pagan,Robert Joy,Bill Clark</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f9866ae8038f20fa9cab69827a474f77.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129042500 +0530" stop="20260129051500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">The Love Laugh Live Show</title>
+    <desc lang="en-GB">The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <credits>
+      <actor>Mandira Bedi,Shibani Dandekar</actor>
+    </credits>
+    <category lang="en-GB">178</category>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1d6a87faa3ea73c628b65d57008f866f.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129051500 +0530" stop="20260129060500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">The Love Laugh Live Show</title>
+    <desc lang="en-GB">The host invites prominent personalities and engages them in candid conversations about their personal and professional lives.</desc>
+    <credits>
+      <actor>Mandira Bedi,Shibani Dandekar</actor>
+    </credits>
+    <category lang="en-GB">178</category>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/1d6a87faa3ea73c628b65d57008f866f.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129060500 +0530" stop="20260129074500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">What's Your Number?</title>
+    <desc lang="en-GB">With her career crashing and her boyfriend dumping her, Ally tries to contact her former partners in the desperate hope of finding true love.</desc>
+    <credits>
+      <director>Mark Mylod,Gabrielle Allan,Jennifer Crittenden</director>
+      <actor>Anna Faris,Chris Evans,Ari Graynor,Blythe Danner,Zachary Quinto,Andy Samberg,Mike Vogel,Ivana Milicevic,Chris Pratt,Thomas Lennon,Joel McHale,Dave Annable,Oliver Jackson-Cohen,Martin Freeman,Anthony Mackie,Kate Simses</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/53c3f04dd0188501fe3e2cae9651c140.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129074500 +0530" stop="20260129092500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">St. Vincent</title>
+    <desc lang="en-GB">Maggie, a working single mother, allows Vincent, a hedonistic misanthrope, to babysit her 12-year-old son Oliver. Soon, a beautiful friendship develops between Vincent and Oliver.</desc>
+    <credits>
+      <director>Theodore Melfi</director>
+      <actor>Bill Murray,Melissa McCarthy,Naomi Watts,Chris O'Dowd,Jaeden Lieberher,Terrence Howard,Kimberly Quinn,Donna Mitchell,Nate Corddry,Dario Barosso,Ann Dowd,Scott Adsit</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ae8795ced125d67dbc3dfc653f41688d.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129092500 +0530" stop="20260129110000 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Big Momma's House</title>
+    <desc lang="en-GB">Things get interesting when Malcolm Turner, an FBI agent and a disguise master, assumes the role of an elderly lady to nab an escaped convict.</desc>
+    <credits>
+      <director>Raja Gosnell,Darryl Quarles,Don Rhymer</director>
+      <actor>Martin Lawrence,Nia Long,Paul Giamatti,Anthony Anderson,Ella Mitchell,Jascha Washington,Carl Wright,Phyllis Applegate,Starletta DuPois,Octavia L. Spencer</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/b90dc70d8dbb4db13d380be40de99ed4.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129110000 +0530" stop="20260129124000 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">The Smurfs</title>
+    <desc lang="en-GB">While trying to escape the evil wizard Gargamel, the blue-skinned Smurfs get sucked into a vortex that teleports them to New York. Thereafter, they try their best to find a way back home.</desc>
+    <credits>
+      <director>Raja Gosnell,J. David Stem,David N. Weiss,Jay Scherick,David Ronn</director>
+      <actor>Hank Azaria,Neil Patrick Harris,Jayma Mays,Sofía Vergara,Tim Gunn,Jonathan Winters,Alan Cumming,Katy Perry,Fred Armisen,George Lopez,Anton Yelchin,Kenan Thompson,Jeff Foxworthy,John Oliver,Wolfgang Puck,Gary Basaraba,Paul Reubens,B.J. Novak,Frank Welker</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/ce9cc01466110c3ed045fca972dd8fc8.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129124000 +0530" stop="20260129142000 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">What to Expect When You're Expecting</title>
+    <desc lang="en-GB">Five couples from Atlanta buckle up to deal with the joys and sorrows of having a baby for the first time. However, they soon realise that parenthood demands a lot more than they anticipated.</desc>
+    <credits>
+      <director>Kirk Jones,Shauna Cross,Heather Hach</director>
+      <actor>Cameron Diaz,Jennifer Lopez,Elizabeth Banks,Chace Crawford,Brooklyn Decker,Anna Kendrick,Matthew Morrison,Dennis Quaid,Chris Rock,Rodrigo Santoro,Ben Falcone,Joe Manganiello,Tom Lennon,Amir Talai,Rob Huebel</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/8dc00cb1a01111e71277dc79426d51c2.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129142000 +0530" stop="20260129162500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">The Terminal</title>
+    <desc lang="en-GB">Eastern European visitor Viktor arrives in New York, only to find that his papers are no longer valid. Rules being rules, airport chief Dixon can't let Viktor into America, or let him leave.</desc>
+    <credits>
+      <director>Steven Spielberg,Sacha Gervasi,Jeff Nathanson</director>
+      <actor>Tom Hanks,Catherine Zeta-Jones,Stanley Tucci,Chi McBride,Diego Luna,Barry Shabaka Henley,Kumar Pallana,Eddie Jones,Jude Ciccolella,Corey Reynolds,Guillermo Díaz,Rini Bell,Stephen Mendel,Valera Nikolaev,Michael Nouri,Zoe Saldana</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/36bf08463b21d2c8f2aa515c21358fa9.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129162500 +0530" stop="20260129180000 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">No Strings Attached</title>
+    <desc lang="en-GB">After a break-up, Adam is looking for a casual relationship when he runs into Emma and they agree to maintain a strictly physical association, but things get complicated when they both fall in love.</desc>
+    <credits>
+      <director>Ivan Reitman,Elizabeth Meriwether</director>
+      <actor>Natalie Portman,Ashton Kutcher,Cary Elwes,Kevin Kline,Lake Bell,Olivia Thirlby,Greta Gerwig,Chris \"Ludacris\" Bridges,Jake Johnson,Mindy Kaling,Ben Lawson,Ophelia Lovibond</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/04a6a32fb0c18d41f6a5adc521065b31.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129180000 +0530" stop="20260129193500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">The Addams Family 2</title>
+    <desc lang="en-GB">Gomez Addams frets his children are drifting from him and Morticia. He packs the family into their haunted camper, embarking on a bizarre vacation to reconnect.</desc>
+    <credits>
+      <director>Greg Tiernan,Dan Hernandez,Benji Samit,Ben Queen,Susanna Fogel</director>
+      <actor>Oscar Isaac,Charlize Theron,Chloë Grace Moretz,Bill Hader,Nick Kroll,Javon \"Wanna\" Walton,Wallace Shawn,Snoop Dogg,Bette Midler</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/c6d6a80399abc5e401a74eec440a7799.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129193500 +0530" stop="20260129210000 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Ace Ventura: Pet Detective</title>
+    <desc lang="en-GB">Ace Ventura, a private detective, specialises in finding lost animals. One day, he is tasked with finding the missing mascot of an American football team.</desc>
+    <credits>
+      <director>Tom Shadyac,Jake Bernstein,Tom Shadyac,Jim Carrey</director>
+      <actor>Jim Carrey,Courteney Cox,Sean Young,Tone Loc,Dan Marino,Noble Willingham,Troy Evans,Randall Cobb,Raynor Scheine,Udo Kier,Frank Adonis,Tiny Ron,David Margulies,John Capodice,Judy Clayton,Bill Zuckert,Alice Drummond,Mark Margolis,Antoni Corone,Margo Peace</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/29ce867c2a49eaadf1e84162a1609bf6.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129210000 +0530" stop="20260129223500 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Bridget Jones's Diary</title>
+    <desc lang="en-GB">A neurotic thirty-something woman resolves to finally take control of her life once and for all, while looking for h love.</desc>
+    <credits>
+      <director>Sharon Maguire</director>
+      <actor>Renée Zellweger,Colin Firth,Hugh Grant,Gemma Jones,Jim Broadbent,Embeth Davidtz,Shirley Henderson,Sally Phillips,James Callis</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/f5d6b97d2013835b40af5dc0505340cf.jpg" />
+    <premiere />
+  </programme>
+  <programme start="20260129223500 +0530" stop="20260129235959 +0530" channel="Romedy.Now.in">
+    <title lang="en-GB">Peter Rabbit</title>
+    <desc lang="en-GB">A spirited rivalry grows when Peter pushes boundaries with Thomas McGregor, creating chaos around Bea as she offers calm reassurance amid playful tension and shifting intentions.</desc>
+    <credits>
+      <director>Will Gluck,Rob Lieber,Will Gluck</director>
+      <actor>James Corden,Fayssal Bazzi,Domhnall Gleeson,Sia,Colin Moody,Sam Neill,Margot Robbie,Elizabeth Debicki,Daisy Ridley,Rose Byrne,Christian Gazal,Ewen Leslie,Natalie Dew,Terenia Edwards,Marianne Jean Baptiste,Gareth Davies,Vauxhall Jermaine,Tom Greaves,Alexandra Gluck,Taryn Gluck,Sam Haft,Sacha Horler,Will Reichelt</actor>
+    </credits>
+    <category lang="en-GB">177</category>
+    <icon src="http://jiotv.catchup.cdn.jio.com/dare_images/shows/epgdata/9463c5e916cfdd75317c12f772b5f2c9.jpg" />
+    <premiere />
+  </programme>
   <channel id="CINEMAX.(HD).sg">
     <display-name lang="en">CINEMAX (HD)</display-name>
     <url>http://www.singteltv.com.sg</url>
@@ -6206,66 +4814,6 @@
     <display-name lang="en">HBO HD</display-name>
     <url>http://www.singteltv.com.sg</url>
   </channel>
-  <programme start="20260125000500 +0800" stop="20260125021000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">JOKER</title>
-    <desc lang="en">Arthur Fleck, aka the Joker, arch-nemesis of Batman, goes on his journey from societal outcast and failed comedian to cackling criminal mastermind.</desc>
-  </programme>
-  <programme start="20260125021000 +0800" stop="20260125030500 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">BOARDWALK EMPIRE S4</title>
-    <desc lang="en">Eli confronts Nucky about Willie; Margaret has a surprise encounter in New York City; Gillian goes cold turkey.</desc>
-  </programme>
-  <programme start="20260125030500 +0800" stop="20260125044500 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">I.S.S.</title>
-    <desc lang="en">When a world war event occurs on Earth, nations contact their astronauts aboard the ISS and give them instructions to take control of the station.</desc>
-  </programme>
-  <programme start="20260125044500 +0800" stop="20260125063000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">LAND OF GOLD</title>
-    <desc lang="en">A truck driver finds a young Mexican American girl inside his shipping container and his life takes a turn as he tries to reunite her with her family.</desc>
-  </programme>
-  <programme start="20260125063000 +0800" stop="20260125083000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">JUSTICE LEAGUE</title>
-    <desc lang="en">Batman and Wonder Woman work quickly to find and recruit a team of meta humans to stand against a newly awakened threat.</desc>
-  </programme>
-  <programme start="20260125083000 +0800" stop="20260125103000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">ARGO</title>
-    <desc lang="en">A daring CIA agent plans a fake movie set-up to rescue six Americans in Tehran.</desc>
-  </programme>
-  <programme start="20260125103000 +0800" stop="20260125122000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">SLEEPING DOGS</title>
-    <desc lang="en">An ex-homicide detective with memory loss is forced to solve a brutal murder he can't recall.</desc>
-  </programme>
-  <programme start="20260125122000 +0800" stop="20260125140000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">DADDY'S HOME</title>
-    <desc lang="en">When a divorced guy's ex-wife re-marries someone way more uptight, he re-enters her life and wreaks havoc.</desc>
-  </programme>
-  <programme start="20260125140000 +0800" stop="20260125160500 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">GODZILLA</title>
-    <desc lang="en">A spectacular adventure that pits Godzilla against malevolent creatures that threaten the very existence of humans.</desc>
-  </programme>
-  <programme start="20260125160500 +0800" stop="20260125163500 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">HOLLYWOOD ON SET S1</title>
-    <desc lang="en">HOLLYWOOD ON SET S1.</desc>
-  </programme>
-  <programme start="20260125163500 +0800" stop="20260125181000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">PU-239</title>
-    <desc lang="en">A worker at a Russian nuclear plant steals a small amount of weapons grade plutonium and tries to sell it on the Moscow black market.</desc>
-  </programme>
-  <programme start="20260125181000 +0800" stop="20260125201000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">BOYCOTT</title>
-    <desc lang="en">A HBO Original movie based on the 13-month boycott of the use of bus services in Alabama after a black woman refuses to give up her seat to a white man.</desc>
-  </programme>
-  <programme start="20260125201000 +0800" stop="20260125220000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">COLLATERAL DAMAGE</title>
-    <desc lang="en">Arnold Schwarzenegger exacts revenge on the terrorists who murdered his family.</desc>
-  </programme>
-  <programme start="20260125220000 +0800" stop="20260125220000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">THE LORD OF THE RINGS: THE RETURN OF THE KING</title>
-    <desc lang="en">The fate of Middle Earth draws to a close in this long-awaited final chapter of the epic trilogy.</desc>
-  </programme>
-  <programme start="20260125220000 +0800" stop="20260126012000 +0800" channel="CINEMAX.(HD).sg">
-    <title lang="en">THE LORD OF THE RINGS: THE RETURN OF THE KING</title>
-    <desc lang="en">The fate of Middle Earth draws to a close in this long-awaited final chapter of the epic trilogy.</desc>
-  </programme>
   <programme start="20260126012000 +0800" stop="20260126030000 +0800" channel="CINEMAX.(HD).sg">
     <title lang="en">A MAN APART</title>
     <desc lang="en">Vin Diesel with his partner wages war against a ruthless drug lord and seeks revenge for his wife's murder.</desc>
@@ -6426,169 +4974,65 @@
     <title lang="en">GAME NIGHT</title>
     <desc lang="en">Max and Annie's weekly Game Night gets kicked up a notch when Max's brother arranges a murder mystery.</desc>
   </programme>
-  <programme start="20260125003600 +0800" stop="20260125012400 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Chopped (S57)</title>
-    <desc lang="en">16 chefs have their fates and ingredients decided by a wheel of chance. Four chefs take on seafood, an amphibious delicacy, and a strange beverage.</desc>
+  <programme start="20260128220000 +0800" stop="20260128220000 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">THE FALL GUY</title>
+    <desc lang="en">A stuntman working a movie production is hired to find the missing lead actor, instead, he gets framed for a murder.</desc>
   </programme>
-  <programme start="20260125012400 +0800" stop="20260125014800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
-    <desc lang="en">Guy Fieri's getting into lights-out shrimp empanadas in Chicago, mouthwatering mojo pork in Tallahassee, FL, and flavour-bomb pizza in Minneapolis.</desc>
+  <programme start="20260128220000 +0800" stop="20260129001000 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">THE FALL GUY</title>
+    <desc lang="en">A stuntman working a movie production is hired to find the missing lead actor, instead, he gets framed for a murder.</desc>
   </programme>
-  <programme start="20260125014800 +0800" stop="20260125021200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
-    <desc lang="en">Guy Fieri's setting his sights on seafood and creative comfort, including Szechuan biscuit sandwiches in Chicago and gangster gumbo in Florida.</desc>
+  <programme start="20260129001000 +0800" stop="20260129014000 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">CASH OUT</title>
+    <desc lang="en">Mason Goddard is a world class master-thief. Believing he has pulled off the perfect heist, his plan is foiled and now he must match wits with a sexy FBI investigator.</desc>
   </programme>
-  <programme start="20260125021200 +0800" stop="20260125030000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Chopped Junior (S8)</title>
-    <desc lang="en">The junior chefs unpack pickle-flavored cotton candy in their baskets, and in the second round, they must dip into cookie jars to discover sweet ingredients.</desc>
+  <programme start="20260129014000 +0800" stop="20260129032500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">THE LAST GUNFIGHT</title>
+    <desc lang="en">In a ruthless underground tournament, the world's top assassins fight to the death.</desc>
   </programme>
-  <programme start="20260125030000 +0800" stop="20260125035000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Best Places To Pig Out (S1)</title>
-    <desc lang="en">A 10-pound, 3-foot meatball sub earns a spot in the Pig Out Hall of Fame.</desc>
+  <programme start="20260129032500 +0800" stop="20260129051500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">GONE BABY GONE</title>
+    <desc lang="en">Two private detectives hired to investigate a little girl's disappearance are faced with a moral dilemma that tears them apart.</desc>
   </programme>
-  <programme start="20260125035000 +0800" stop="20260125044000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Wildcard Kitchen (S2)</title>
-    <desc lang="en">Michael Symon, Esther Choi and Marcel Vigneron battle each other and Eric Adjepong's deliciously deceptive wildcards for a chance at $15,000.</desc>
+  <programme start="20260129051500 +0800" stop="20260129073500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">REAGAN</title>
+    <desc lang="en">From dusty small-town roots, to the glitter of Hollywood, and then on to commanding the world stage, REAGAN is a journey of overcoming the odds.</desc>
   </programme>
-  <programme start="20260125044000 +0800" stop="20260125053000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Man's Greatest Food (S2)</title>
-    <desc lang="en">Roger Mooking travels across America in search of delicious chicken dishes. He discovers the best ways to cook wings, pot pies and other savoury meals.</desc>
+  <programme start="20260129073500 +0800" stop="20260129091000 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">DRACULA UNTOLD</title>
+    <desc lang="en">The origin story of the man who became Dracula. Vlad III, Prince of Wallachia, enters into a Faustian pact to save his people and becomes inflicted with an insatiable thirst for human blood.</desc>
   </programme>
-  <programme start="20260125053000 +0800" stop="20260125060000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Good Eats: Reloaded (S1)</title>
-    <desc lang="en">Alton Brown reloads his roast chicken episode with new flavors and a new twist on "broiling.".</desc>
+  <programme start="20260129091000 +0800" stop="20260129120500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">THE LORD OF THE RINGS: THE TWO TOWERS</title>
+    <desc lang="en">In their parallel journeys, the Fellowship will stand against the powerful forces spreading from the Two Towers.</desc>
   </programme>
-  <programme start="20260125060000 +0800" stop="20260125064800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Chopped (S57)</title>
-    <desc lang="en">16 chefs have their fates and ingredients decided by a wheel of chance. Four chefs take on seafood, an amphibious delicacy, and a strange beverage.</desc>
+  <programme start="20260129120500 +0800" stop="20260129133500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">CASH OUT</title>
+    <desc lang="en">Mason Goddard is a world class master-thief. Believing he has pulled off the perfect heist, his plan is foiled and now he must match wits with a sexy FBI investigator.</desc>
   </programme>
-  <programme start="20260125064800 +0800" stop="20260125071200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Ayesha's Home Kitchen (S2)</title>
-    <desc lang="en">Ayesha Curry is putting a grown-up twist on childhood favorite foods for game night.</desc>
+  <programme start="20260129133500 +0800" stop="20260129151500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">GAME NIGHT</title>
+    <desc lang="en">Max and Annie's weekly Game Night gets kicked up a notch when Max's brother arranges a murder mystery.</desc>
   </programme>
-  <programme start="20260125071200 +0800" stop="20260125073600 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Ayesha's Home Kitchen (S2)</title>
-    <desc lang="en">Ayesha Curry plans a lighty, citrusy lunch with her mom and sister-in-law to thank them for all their help with the kids.</desc>
+  <programme start="20260129151500 +0800" stop="20260129170500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">SOMETHING THE LORD MADE</title>
+    <desc lang="en">In this HBO Original movie, two men achieve an enormous medical breakthrough that earns one an award and the other, a painful lesson in unequal opportunity.</desc>
   </programme>
-  <programme start="20260125073600 +0800" stop="20260125082400 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Restaurant: Impossible (S16)</title>
-    <desc lang="en">Robert Irvine tries to save a piece of history in Garrettsville, OH, by rescuing a restaurant in a 200-year-old mill.</desc>
+  <programme start="20260129170500 +0800" stop="20260129184500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">DADDY'S HOME 2</title>
+    <desc lang="en">Dusty and Brad have joined forces to provide their kids with the perfect Christmas. Things take a turn when their own dads arrive and throw the holiday into chaos.</desc>
   </programme>
-  <programme start="20260125082400 +0800" stop="20260125084800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Baked In Vermont (S1)</title>
-    <desc lang="en">Gesine wows with a Chocolate Yule Log with a Gingerbread Ax Topper.</desc>
+  <programme start="20260129184500 +0800" stop="20260129202500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">CLEAR HISTORY</title>
+    <desc lang="en">After an argument with his boss, Nathan changes his identity to escape public humiliation – only to find his past disrupting his new life.</desc>
   </programme>
-  <programme start="20260125084800 +0800" stop="20260125091200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Baked In Vermont (S1)</title>
-    <desc lang="en">Gesine Prado hosts her knitting club's monthly get-together with a menu of small appetizers.</desc>
+  <programme start="20260129202500 +0800" stop="20260129220000 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">FAILURE TO LAUNCH</title>
+    <desc lang="en">The parents of a 35-year-old bachelor hire an expert to seduce him so that he can move out of their house.</desc>
   </programme>
-  <programme start="20260125091200 +0800" stop="20260125100000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Chopped (S57)</title>
-    <desc lang="en">16 chefs have their fates and ingredients decided by a wheel of chance. Four chefs take on seafood, an amphibious delicacy, and a strange beverage.</desc>
-  </programme>
-  <programme start="20260125100000 +0800" stop="20260125102400 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Ayesha's Home Kitchen (S2)</title>
-    <desc lang="en">Ayesha Curry is putting a grown-up twist on childhood favorite foods for game night.</desc>
-  </programme>
-  <programme start="20260125102400 +0800" stop="20260125104800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Ayesha's Home Kitchen (S2)</title>
-    <desc lang="en">Ayesha Curry plans a lighty, citrusy lunch with her mom and sister-in-law to thank them for all their help with the kids.</desc>
-  </programme>
-  <programme start="20260125104800 +0800" stop="20260125111200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Unwrapped 2.0 (S1)</title>
-    <desc lang="en">From twisted Red Vines, multicoloured Mike and Ikes and multi-flavoured Jelly Bellies, host, Alfonso Riberio, uncovers the secrets to these colourful sweets.</desc>
-  </programme>
-  <programme start="20260125111200 +0800" stop="20260125113600 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Unwrapped 2.0 (S1)</title>
-    <desc lang="en">Host Alfonso Riberio looks at the secret fruit and vegetables hidden in tasty and naughty treats. Including the carrots in cookies and the apples in cider.</desc>
-  </programme>
-  <programme start="20260125113600 +0800" stop="20260125122400 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Best Places To Pig Out (S1)</title>
-    <desc lang="en">A 10-pound, 3-foot meatball sub earns a spot in the Pig Out Hall of Fame.</desc>
-  </programme>
-  <programme start="20260125122400 +0800" stop="20260125131200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Man's Greatest Food (S2)</title>
-    <desc lang="en">Roger Mooking travels across America in search of delicious chicken dishes. He discovers the best ways to cook wings, pot pies and other savoury meals.</desc>
-  </programme>
-  <programme start="20260125131200 +0800" stop="20260125133600 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
-    <desc lang="en">Michael Symon makes mouthwatering Birria Style Beef Tacos paired with a Jicama Salad that includes avocado, citrus and a spicy vinaigrette.</desc>
-  </programme>
-  <programme start="20260125133600 +0800" stop="20260125140000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
-    <desc lang="en">Michael Symon puts his grill in the sand to whip up the ultimate beach barbecue. He makes a "Beach Bomber" Sausage Sandwich served with a side of Herbaceous Potato Salad.</desc>
-  </programme>
-  <programme start="20260125140000 +0800" stop="20260125142400 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
-    <desc lang="en">Guy Fieri's getting into lights-out shrimp empanadas in Chicago, mouthwatering mojo pork in Tallahassee, FL, and flavour-bomb pizza in Minneapolis.</desc>
-  </programme>
-  <programme start="20260125142400 +0800" stop="20260125144800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
-    <desc lang="en">Guy Fieri's setting his sights on seafood and creative comfort, including Szechuan biscuit sandwiches in Chicago and gangster gumbo in Florida.</desc>
-  </programme>
-  <programme start="20260125144800 +0800" stop="20260125153600 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Wildcard Kitchen (S2)</title>
-    <desc lang="en">Michael Symon, Esther Choi and Marcel Vigneron battle each other and Eric Adjepong's deliciously deceptive wildcards for a chance at $15,000.</desc>
-  </programme>
-  <programme start="20260125153600 +0800" stop="20260125162400 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Best Places To Pig Out (S1)</title>
-    <desc lang="en">A 10-pound, 3-foot meatball sub earns a spot in the Pig Out Hall of Fame.</desc>
-  </programme>
-  <programme start="20260125162400 +0800" stop="20260125164800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Baked In Vermont (S1)</title>
-    <desc lang="en">Gesine wows with a Chocolate Yule Log with a Gingerbread Ax Topper.</desc>
-  </programme>
-  <programme start="20260125164800 +0800" stop="20260125171200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Baked In Vermont (S1)</title>
-    <desc lang="en">Gesine Prado hosts her knitting club's monthly get-together with a menu of small appetizers.</desc>
-  </programme>
-  <programme start="20260125171200 +0800" stop="20260125173600 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
-    <desc lang="en">Guy Fieri's getting into lights-out shrimp empanadas in Chicago, mouthwatering mojo pork in Tallahassee, FL, and flavour-bomb pizza in Minneapolis.</desc>
-  </programme>
-  <programme start="20260125173600 +0800" stop="20260125180000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
-    <desc lang="en">Guy Fieri's setting his sights on seafood and creative comfort, including Szechuan biscuit sandwiches in Chicago and gangster gumbo in Florida.</desc>
-  </programme>
-  <programme start="20260125180000 +0800" stop="20260125194000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Holiday Baking Championship (S11)</title>
-    <desc lang="en">The final bakers construct gingerbread house cakes in unique architectural styles, with the best baker winning the title of Champion and $25,000!</desc>
-  </programme>
-  <programme start="20260125194000 +0800" stop="20260125203000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Vegas Chef Prizefight (S1)</title>
-    <desc lang="en">Chef Anne Burrell pushes the seven remaining chefs to the limit with a challenge to create a dish using the nopal cactus.</desc>
-  </programme>
-  <programme start="20260125203000 +0800" stop="20260125212000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Best Places To Pig Out (S1)</title>
-    <desc lang="en">A 10-pound, 3-foot meatball sub earns a spot in the Pig Out Hall of Fame.</desc>
-  </programme>
-  <programme start="20260125212000 +0800" stop="20260125214500 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Ayesha's Home Kitchen (S2)</title>
-    <desc lang="en">Ayesha Curry is celebrating her mother and grandmother by making favorite family recipes influenced by their Jamaican roots.</desc>
-  </programme>
-  <programme start="20260125214500 +0800" stop="20260125221000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Ayesha's Home Kitchen (S2)</title>
-    <desc lang="en">Ayesha Curry welcomes Stephen Curry's aunts from NC with a good ol' fashioned Southern barbecue.</desc>
-  </programme>
-  <programme start="20260125221000 +0800" stop="20260125223500 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Baked In Vermont (S1)</title>
-    <desc lang="en">Gesine wows with a Chocolate Yule Log with a Gingerbread Ax Topper.</desc>
-  </programme>
-  <programme start="20260125223500 +0800" stop="20260125230000 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Baked In Vermont (S1)</title>
-    <desc lang="en">Gesine Prado hosts her knitting club's monthly get-together with a menu of small appetizers.</desc>
-  </programme>
-  <programme start="20260125230000 +0800" stop="20260125234800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Chopped (S57)</title>
-    <desc lang="en">16 chefs have their fates and ingredients decided by a wheel of chance. Four chefs take on seafood, an amphibious delicacy, and a strange beverage.</desc>
-  </programme>
-  <programme start="20260125234800 +0800" stop="20260125234800 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Good Eats: Reloaded (S1)</title>
-    <desc lang="en">Alton Brown reloads his roast chicken episode with new flavors and a new twist on "broiling.".</desc>
-  </programme>
-  <programme start="20260125234800 +0800" stop="20260126001200 +0800" channel="Food.Network.(HD).sg">
-    <title lang="en">Good Eats: Reloaded (S1)</title>
-    <desc lang="en">Alton Brown reloads his roast chicken episode with new flavors and a new twist on "broiling.".</desc>
+  <programme start="20260129220000 +0800" stop="20260129234500 +0800" channel="CINEMAX.(HD).sg">
+    <title lang="en">THE LAST GUNFIGHT</title>
+    <desc lang="en">In a ruthless underground tournament, the world's top assassins fight to the death.</desc>
   </programme>
   <programme start="20260126001200 +0800" stop="20260126003600 +0800" channel="Food.Network.(HD).sg">
     <title lang="en">Good Eats: Reloaded (S1)</title>
@@ -7082,217 +5526,173 @@
     <title lang="en">Best Places To Pig Out (S1)</title>
     <desc lang="en">From totally indulgent tater tots to a multi-meat tower that can only be described as a slam dunk, we're counting down some of America's most delectable eats.</desc>
   </programme>
-  <programme start="20260125000600 +0800" stop="20260125001700 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Jake must work in the school office.</desc>
+  <programme start="20260128234800 +0800" stop="20260128234800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped Junior (S8)</title>
+    <desc lang="en">The junior chefs unpack pickle-flavored cotton candy in their baskets, and in the second round, they must dip into cookie jars to discover sweet ingredients.</desc>
   </programme>
-  <programme start="20260125001700 +0800" stop="20260125002900 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">When Adam is accidentally inoculated with MONKEY BOOSTER, he 'goes ape', turning into a crazed, pants-less monkey!</desc>
+  <programme start="20260128234800 +0800" stop="20260129003600 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped Junior (S8)</title>
+    <desc lang="en">The junior chefs unpack pickle-flavored cotton candy in their baskets, and in the second round, they must dip into cookie jars to discover sweet ingredients.</desc>
   </programme>
-  <programme start="20260125002900 +0800" stop="20260125004100 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Much to his dismay, Adam is placed in the advanced class with the dorky super-smart kids.</desc>
+  <programme start="20260129003600 +0800" stop="20260129012400 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Restaurant: Impossible (S16)</title>
+    <desc lang="en">Robert Irvine helps a beloved restaurant on the brink of closing its doors in Ferguson, MO.</desc>
   </programme>
-  <programme start="20260125004100 +0800" stop="20260125005300 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Hysteria breaks out at CDMS when Slips comes in with a case of 'the sheds' and everyone thinks he's contagious.</desc>
+  <programme start="20260129012400 +0800" stop="20260129014800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Cheap Eats (S2)</title>
+    <desc lang="en">Ali eats his way through Chattanooga, TN, and tries a whiskey pot de creme.</desc>
   </programme>
-  <programme start="20260125005300 +0800" stop="20260125010500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Jake brings a shiny glass ball (actually a doorknob) to school.</desc>
+  <programme start="20260129014800 +0800" stop="20260129021200 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Cheap Eats (S2)</title>
+    <desc lang="en">Ali Khan tips his hat to these scratch-made meals in Omaha.</desc>
   </programme>
-  <programme start="20260125010500 +0800" stop="20260125011700 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Pandemonium breaks out when AMAZON KEVIN, the rootin'-tootin' animal wrastlin' star of TV's 'Amazon Kevin's Wild Animal'.</desc>
+  <programme start="20260129021200 +0800" stop="20260129035000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Holiday Baking Championship (S11)</title>
+    <desc lang="en">The final bakers construct gingerbread house cakes in unique architectural styles, with the best baker winning the title of Champion and $25,000!</desc>
   </programme>
-  <programme start="20260125011700 +0800" stop="20260125012800 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Adam and Jake have to sell candy for the annual school fundraiser.</desc>
+  <programme start="20260129035000 +0800" stop="20260129044000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Man's Greatest Food (S2)</title>
+    <desc lang="en">Roger Mooking travels across America in search of delicious chicken dishes. He discovers the best ways to cook wings, pot pies and other savoury meals.</desc>
   </programme>
-  <programme start="20260125012800 +0800" stop="20260125014000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Jake and Adam are sentenced by the student court to hall monitor duty. Jake takes advantage of every 'perk' of the job.</desc>
+  <programme start="20260129044000 +0800" stop="20260129050500 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
+    <desc lang="en">Guy Fieri's getting a taste of lights-out lasagna Bolognese in Naples, shrimp and grits in Tallahassee, and braised pork buns in Chicago.</desc>
   </programme>
-  <programme start="20260125014000 +0800" stop="20260125015200 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Jake discovers that his butt makes people laugh--so he does the logical thing and uses it like a puppet.</desc>
+  <programme start="20260129050500 +0800" stop="20260129053000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
+    <desc lang="en">Guy Fieri grabs fistfuls of flavour at a Mediterranean spot in California, a beachy bistro in New Jersey and an Argentine joint in Indianapolis.</desc>
   </programme>
-  <programme start="20260125015200 +0800" stop="20260125020400 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">It's Howl-o-ween at CDMS and Adam will do just about anything to get away from the incessant howling.</desc>
+  <programme start="20260129053000 +0800" stop="20260129060000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Cheap Eats (S2)</title>
+    <desc lang="en">Ali eats his way through Chattanooga, TN, and tries a whiskey pot de creme.</desc>
   </programme>
-  <programme start="20260125020400 +0800" stop="20260125021600 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Jake has a robot arm implanted in his skull.</desc>
+  <programme start="20260129060000 +0800" stop="20260129062400 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Ayesha's Home Kitchen (S2)</title>
+    <desc lang="en">Ayesha Curry is celebrating her mother and grandmother by making favorite family recipes influenced by their Jamaican roots.</desc>
   </programme>
-  <programme start="20260125021600 +0800" stop="20260125022800 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Adam's offhanded complaint about the lack of 'human food' in the cafeteria .</desc>
+  <programme start="20260129062400 +0800" stop="20260129064800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Ayesha's Home Kitchen (S2)</title>
+    <desc lang="en">Ayesha Curry welcomes Stephen Curry's aunts from NC with a good ol' fashioned Southern barbecue.</desc>
   </programme>
-  <programme start="20260125022800 +0800" stop="20260125024000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Jake is insulted that Adam did not pay him the ultimate monkey compliment.</desc>
+  <programme start="20260129064800 +0800" stop="20260129073600 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped Junior (S8)</title>
+    <desc lang="en">The junior chefs unpack pickle-flavored cotton candy in their baskets, and in the second round, they must dip into cookie jars to discover sweet ingredients.</desc>
   </programme>
-  <programme start="20260125024000 +0800" stop="20260125030500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
-    <desc lang="en">Adam and Jake agree to coach the painfully shy Mr. H .</desc>
+  <programme start="20260129073600 +0800" stop="20260129080000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
+    <desc lang="en">Michael Symon makes mouthwatering Birria Style Beef Tacos paired with a Jicama Salad that includes avocado, citrus and a spicy vinaigrette.</desc>
   </programme>
-  <programme start="20260125030500 +0800" stop="20260125034700 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">THE TITAN GAMES S1</title>
-    <desc lang="en">The competition continues with competitors pushing their bodies to the limit by battling opponents in unforgiving head-to-head challenges, designed by Dwayne Johnson. Winners will advance to the ultimate challenge of Mt. Olympus, the consummate athletic test of speed, strength, agility and endurance. The male and female competitors who conquer Mt. Olympus will become a Titan, and in the end, the Titans return to battle each other. One woman and one man will be crowned Titan Champions. Dwayne ...</desc>
+  <programme start="20260129080000 +0800" stop="20260129082400 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
+    <desc lang="en">Michael Symon puts his grill in the sand to whip up the ultimate beach barbecue. He makes a "Beach Bomber" Sausage Sandwich served with a side of Herbaceous Potato Salad.</desc>
   </programme>
-  <programme start="20260125034700 +0800" stop="20260125042900 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">THE TITAN GAMES S1</title>
-    <desc lang="en">The competition continues with competitors pushing their bodies to the limit by battling opponents in unforgiving head-to-head challenges, designed by Dwayne Johnson. Winners will advance to the ultimate challenge of Mt. Olympus, the consummate athletic test of speed, strength, agility and endurance. The male and female competitors who conquer Mt. Olympus will become a Titan, and in the end, the Titans return to battle each other. One woman and one man will be crowned Titan Champions. Dwayne ...</desc>
+  <programme start="20260129082400 +0800" stop="20260129084800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Good Eats: Reloaded (S1)</title>
+    <desc lang="en">Alton Brown reloads his roast chicken episode with new flavors and a new twist on "broiling.".</desc>
   </programme>
-  <programme start="20260125042900 +0800" stop="20260125055000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">THE TITAN GAMES S1</title>
-    <desc lang="en">After thousands of hopefuls applied, a field of 64 exceptional athletes has been narrowed down to sixteen elite Titans. Before their final test on Mt. Olympus, the Titan's must compete in head-to-head battles against each other. The winners advance to the final for a chance to become a Titan Champion.</desc>
+  <programme start="20260129084800 +0800" stop="20260129091200 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Good Eats: Reloaded (S1)</title>
+    <desc lang="en">Alton Brown reloads his pressure cooker episode with a new broth and his take on Vietnamese pho.</desc>
   </programme>
-  <programme start="20260125055000 +0800" stop="20260125062000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CRASHBOX S1</title>
-    <desc lang="en">An outrageously insane new game show of puzzles and brainteasers for kids to play on television.</desc>
+  <programme start="20260129091200 +0800" stop="20260129093600 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Ayesha's Home Kitchen (S2)</title>
+    <desc lang="en">Ayesha Curry is celebrating her mother and grandmother by making favorite family recipes influenced by their Jamaican roots.</desc>
   </programme>
-  <programme start="20260125062000 +0800" stop="20260125081500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">KATE &amp; LEOPOLD</title>
-    <desc lang="en">When an executive's ex-boyfriend travels through time and brings back a 19th century nobleman, she reluctantly takes responsibility for showing him the 21st century.</desc>
+  <programme start="20260129093600 +0800" stop="20260129100000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Ayesha's Home Kitchen (S2)</title>
+    <desc lang="en">Ayesha Curry welcomes Stephen Curry's aunts from NC with a good ol' fashioned Southern barbecue.</desc>
   </programme>
-  <programme start="20260125081500 +0800" stop="20260125082600 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">When Uncle Grandpa and Pizza Steve cause a ruckus at the movies, Mr. Gus goes to extremes to quiet them down.</desc>
+  <programme start="20260129100000 +0800" stop="20260129104800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped Junior (S8)</title>
+    <desc lang="en">The junior chefs unpack pickle-flavored cotton candy in their baskets, and in the second round, they must dip into cookie jars to discover sweet ingredients.</desc>
   </programme>
-  <programme start="20260125082600 +0800" stop="20260125083700 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">Belly Bag discovers that not all bags are good when Uncle Grandpa gets a new Bottom Bag.</desc>
+  <programme start="20260129104800 +0800" stop="20260129111200 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Cheap Eats (S2)</title>
+    <desc lang="en">Ali eats his way through Chattanooga, TN, and tries a whiskey pot de creme.</desc>
   </programme>
-  <programme start="20260125083700 +0800" stop="20260125084800 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">Uncle Grandpa goes too far trying to make Mr. Gus and Pizza Steve laugh.</desc>
+  <programme start="20260129111200 +0800" stop="20260129113600 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Cheap Eats (S2)</title>
+    <desc lang="en">Ali Khan tips his hat to these scratch-made meals in Omaha.</desc>
   </programme>
-  <programme start="20260125084800 +0800" stop="20260125085900 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">When Birdman makes the RV's attic his new home, UG and the gang must figure out a way to make him leave before they're all driven crazy.</desc>
+  <programme start="20260129113600 +0800" stop="20260129122400 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Wildcard Kitchen (S2)</title>
+    <desc lang="en">Top-tier chefs Stephanie Izard, Jonathon Sawyer and Karen Akunowicz battle it out in a high-paced showdown to win bragging rights and cold, hard cash.</desc>
   </programme>
-  <programme start="20260125085900 +0800" stop="20260125091000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">Strange things start happening when Uncle Grandpa installs a moon roof in the RV.</desc>
+  <programme start="20260129122400 +0800" stop="20260129124800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
+    <desc lang="en">Guy Fieri's getting a taste of lights-out lasagna Bolognese in Naples, shrimp and grits in Tallahassee, and braised pork buns in Chicago.</desc>
   </programme>
-  <programme start="20260125091000 +0800" stop="20260125092100 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">The Uncle Grandpa Babies use their special baby powers to save the day.</desc>
+  <programme start="20260129124800 +0800" stop="20260129131200 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Diners, Drive-Ins, And Dives (S40)</title>
+    <desc lang="en">Guy Fieri grabs fistfuls of flavour at a Mediterranean spot in California, a beachy bistro in New Jersey and an Argentine joint in Indianapolis.</desc>
   </programme>
-  <programme start="20260125092100 +0800" stop="20260125093200 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">Pizza Steve's life is disrupted when his father visits.</desc>
+  <programme start="20260129131200 +0800" stop="20260129140000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped Junior (S8)</title>
+    <desc lang="en">The junior chefs unpack pickle-flavored cotton candy in their baskets, and in the second round, they must dip into cookie jars to discover sweet ingredients.</desc>
   </programme>
-  <programme start="20260125093200 +0800" stop="20260125095400 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">Uncle Grandpa discovers a new, unusual occupation.</desc>
+  <programme start="20260129140000 +0800" stop="20260129142400 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
+    <desc lang="en">Michael Symon makes mouthwatering Birria Style Beef Tacos paired with a Jicama Salad that includes avocado, citrus and a spicy vinaigrette.</desc>
   </programme>
-  <programme start="20260125095400 +0800" stop="20260125100500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">When Uncle Grandpa loses his mustache, the gang must head to the forest to replace it.</desc>
+  <programme start="20260129142400 +0800" stop="20260129144800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
+    <desc lang="en">Michael Symon puts his grill in the sand to whip up the ultimate beach barbecue. He makes a "Beach Bomber" Sausage Sandwich served with a side of Herbaceous Potato Salad.</desc>
   </programme>
-  <programme start="20260125100500 +0800" stop="20260125101600 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S2</title>
-    <desc lang="en">When Uncle Grandpa and the crew all have the same popular and hard‐to‐find gift in mine for their Secret Santa, their nice Christmas shopping trip to the mall turns into a crazy competition.</desc>
+  <programme start="20260129144800 +0800" stop="20260129151200 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Ayesha's Home Kitchen (S2)</title>
+    <desc lang="en">Ayesha Curry is celebrating her mother and grandmother by making favorite family recipes influenced by their Jamaican roots.</desc>
   </programme>
-  <programme start="20260125101600 +0800" stop="20260125102700 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Uncle Grandpa tells the story of when he and Giant Realistic Flying Tiger first met.</desc>
+  <programme start="20260129151200 +0800" stop="20260129153600 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Ayesha's Home Kitchen (S2)</title>
+    <desc lang="en">Ayesha Curry welcomes Stephen Curry's aunts from NC with a good ol' fashioned Southern barbecue.</desc>
   </programme>
-  <programme start="20260125102700 +0800" stop="20260125103800 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Uncle Grandpa and Pizza Steve go to great lengths in order to keep Mister Gus from getting angry.</desc>
+  <programme start="20260129153600 +0800" stop="20260129162400 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped (S57)</title>
+    <desc lang="en">Three new chefs try to topple the returning champion while dealing with a funny cake, an unusual, canned item, and a meaty pie.</desc>
   </programme>
-  <programme start="20260125103800 +0800" stop="20260125104900 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Uncle Grandpa uses time travel to convince his past self to return a library book on time.</desc>
+  <programme start="20260129162400 +0800" stop="20260129180000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Holiday Baking Championship (S11)</title>
+    <desc lang="en">The final bakers construct gingerbread house cakes in unique architectural styles, with the best baker winning the title of Champion and $25,000!</desc>
   </programme>
-  <programme start="20260125104900 +0800" stop="20260125110000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">On a St. Patrick's Day trip to Ireland, Uncle Grandpa and the gang cross paths with a sneaky leprechaun.</desc>
+  <programme start="20260129180000 +0800" stop="20260129185000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Restaurant: Impossible (S16)</title>
+    <desc lang="en">Robert Irvine helps a beloved restaurant on the brink of closing its doors in Ferguson, MO.</desc>
   </programme>
-  <programme start="20260125110000 +0800" stop="20260125111100 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Things get out of hand when Mr. Gus fulfills a timeless legend and is deemed king of the food court.</desc>
+  <programme start="20260129185000 +0800" stop="20260129194000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Best Places To Pig Out (S1)</title>
+    <desc lang="en">From totally indulgent tater tots to a multi-meat tower that can only be described as a slam dunk, we're counting down some of America's most delectable eats.</desc>
   </programme>
-  <programme start="20260125111100 +0800" stop="20260125112200 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">The Easter Bunny, unable to fulfill his egg-delivering duties, has Uncle Grandpa fill in for him.</desc>
+  <programme start="20260129194000 +0800" stop="20260129203000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Vegas Chef Prizefight (S1)</title>
+    <desc lang="en">Three chefs remain, but only the final two will head to the Caesars Board Room for the ultimate decision.</desc>
   </programme>
-  <programme start="20260125112200 +0800" stop="20260125113300 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Pizza Steve tries desperately to make the others in the RV interested in his new game console.</desc>
+  <programme start="20260129203000 +0800" stop="20260129205500 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Baked In Vermont (S1)</title>
+    <desc lang="en">Gesine wows with a Chocolate Yule Log with a Gingerbread Ax Topper.</desc>
   </programme>
-  <programme start="20260125113300 +0800" stop="20260125114400 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Weird Man apprehends a dangerous foreign criminal, Belly Bag discovers a cat stuck in the RV tree, and Uncle Grandpa hosts a space exploration program on this new collection of shorts.</desc>
+  <programme start="20260129205500 +0800" stop="20260129212000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Baked In Vermont (S1)</title>
+    <desc lang="en">Gesine Prado hosts her knitting club's monthly get-together with a menu of small appetizers.</desc>
   </programme>
-  <programme start="20260125114400 +0800" stop="20260125115500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">In the year 3021, the gang's intergalactic mission goes awry when a strange alien creature infiltrates their ship.</desc>
+  <programme start="20260129212000 +0800" stop="20260129214500 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
+    <desc lang="en">Michael Symon creates a meal that will have the kids running to the table. He makes a dairy-free Tomato Soup with Parm Crisps and crunchy BLT Lettuce Wraps.</desc>
   </programme>
-  <programme start="20260125115500 +0800" stop="20260125120600 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Uncle Grandpa helps a young boy who wants to be a fashion designer by taking him somewhere his taste in style will be appreciated.</desc>
+  <programme start="20260129214500 +0800" stop="20260129221000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Symon's Dinners Cooking Out (S4)</title>
+    <desc lang="en">In tribute to his grandfather, Michael Symon crowns Pastrami Spiced Pork Chops with Braised Vegetables.</desc>
   </programme>
-  <programme start="20260125120600 +0800" stop="20260125122800 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">The gang attends the premiere of Majestico and Uncle Grandpa Boy, a movie about a little girl who wants to be a super hero.</desc>
+  <programme start="20260129221000 +0800" stop="20260129223500 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Unwrapped 2.0 (S1)</title>
+    <desc lang="en">Alfonso Ribeiro serves up a multicultural menu. He visits a family-run Philadelphia factory for the secrets of Italian cannoli and California for exotic flavours.</desc>
   </programme>
-  <programme start="20260125122800 +0800" stop="20260125123900 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Uncle Grandpa goes to Australia where he must stop an out-‐of-‐control collecting kangaroo before he destroys the Earth.</desc>
+  <programme start="20260129223500 +0800" stop="20260129230000 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Unwrapped 2.0 (S1)</title>
+    <desc lang="en">Host Alfonso Riberio is in the south to see how some of America's favourite sweet treats are made. Like, how do Red Bird Peppermint Puffs earn their stripes?</desc>
   </programme>
-  <programme start="20260125123900 +0800" stop="20260125131000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">UNCLE GRANDPA S3</title>
-    <desc lang="en">Uncle Grandpa helps a young boy overcome his fear of flying.</desc>
-  </programme>
-  <programme start="20260125131000 +0800" stop="20260125151500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">JURASSIC PARK</title>
-    <desc lang="en">Steven Spielberg's masterpiece follows a team of scientists on an island to witness real dinosaurs in a park, only to see everything go wrong when a storm hits.</desc>
-  </programme>
-  <programme start="20260125151500 +0800" stop="20260125170000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">TOM AND JERRY</title>
-    <desc lang="en">When Jerry moves into the best hotel in New York on the eve of the wedding of the century, the event planner hires Tom to get rid of him. However, the ensuing cat and mouse battle threatens to destroy her career, the wedding and possibly the hotel.</desc>
-  </programme>
-  <programme start="20260125170000 +0800" stop="20260125190000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">KATE &amp; LEOPOLD</title>
-    <desc lang="en">When an executive's ex-boyfriend travels through time and brings back a 19th century nobleman, she reluctantly takes responsibility for showing him the 21st century.</desc>
-  </programme>
-  <programme start="20260125190000 +0800" stop="20260125205500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">JACK THE GIANT SLAYER</title>
-    <desc lang="en">An epic twist of the classic tale where Jack climbs the beanstalk and battles marauding giants.</desc>
-  </programme>
-  <programme start="20260125205500 +0800" stop="20260125230500 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">JURASSIC WORLD: FALLEN KINGDOM</title>
-    <desc lang="en">Three years since Jurassic World was destroyed and abandoned, Owen and Claire mount a campaign to rescue the remaining dinosaurs from an extinction-level volcano eruption.</desc>
-  </programme>
-  <programme start="20260125230500 +0800" stop="20260125231600 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CAMP LAZLO S3</title>
-    <desc lang="en">When Clam wanders into Miss Mucous' yard, Raj and Lazlo are terrified that she is going to bake them into a bean scout cookie!</desc>
-  </programme>
-  <programme start="20260125231600 +0800" stop="20260125232800 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CAMP LAZLO S3</title>
-    <desc lang="en">When Raj loses Clam in the forest, he covers up his mistake by convincing Lazlo that Clam has become invisible.</desc>
-  </programme>
-  <programme start="20260125232800 +0800" stop="20260125233900 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CAMP LAZLO S3</title>
-    <desc lang="en">Too lazy to dig his own bowling alley, Lumpus tricks Lazlo into doing, but it backfires in a big way.</desc>
-  </programme>
-  <programme start="20260125233900 +0800" stop="20260125235000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CAMP LAZLO S3</title>
-    <desc lang="en">Patsy hatches a plan to sit next to Lazlo on the bus and it sends the Bean Scouts into a tailspin.</desc>
-  </programme>
-  <programme start="20260125235000 +0800" stop="20260125235000 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CAMP LAZLO S3</title>
-    <desc lang="en">Raj befriends an insect with an elephant shaped head and grosses the other campers out.</desc>
-  </programme>
-  <programme start="20260125235000 +0800" stop="20260126000200 +0800" channel="HBO.Family.(HD).sg">
-    <title lang="en">CAMP LAZLO S3</title>
-    <desc lang="en">Raj befriends an insect with an elephant shaped head and grosses the other campers out.</desc>
+  <programme start="20260129230000 +0800" stop="20260129234800 +0800" channel="Food.Network.(HD).sg">
+    <title lang="en">Chopped (S57)</title>
+    <desc lang="en">Three new chefs try to topple the returning champion while dealing with a funny cake, an unusual, canned item, and a meaty pie.</desc>
   </programme>
   <programme start="20260126000200 +0800" stop="20260126001400 +0800" channel="HBO.Family.(HD).sg">
     <title lang="en">CAMP LAZLO S3</title>
@@ -7982,61 +6382,241 @@
     <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
     <desc lang="en">Both Jake and Ingrid want to go with Adam to the school dance... So when Adam asks his human friend Kerry to be his date, things get messy.</desc>
   </programme>
-  <programme start="20260125001000 +0800" stop="20260125015500 +0800" channel="HBO.HD.sg">
-    <title lang="en">BIRDS OF PREY (AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN)</title>
-    <desc lang="en">Margot Robbie reprises her role as Harley Quinn in a tale as twisted as Harley herself, and told as only Harley can tell it.</desc>
+  <programme start="20260128235000 +0800" stop="20260128235000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Coach Gills blows a fuse over Adam's inability to keep up with his animal classmates in gym.</desc>
   </programme>
-  <programme start="20260125015500 +0800" stop="20260125035500 +0800" channel="HBO.HD.sg">
-    <title lang="en">M3GAN 2.0</title>
-    <desc lang="en">Your killer bestie is back! Armed with wild upgrades and her same iconic attitude, M3GAN faces off against an android who threatens her beloved Cady.</desc>
+  <programme start="20260128235000 +0800" stop="20260129000200 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Coach Gills blows a fuse over Adam's inability to keep up with his animal classmates in gym.</desc>
   </programme>
-  <programme start="20260125035500 +0800" stop="20260125052500 +0800" channel="HBO.HD.sg">
-    <title lang="en">FINAL DESTINATION 2</title>
-    <desc lang="en">A group of friends on holiday finds that no matter how hard they try, they can't cheat Death twice.</desc>
+  <programme start="20260129000200 +0800" stop="20260129001400 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">When everyone at school takes a test to show what their future careers might be, Jake and Adam are disappointed in the results.</desc>
   </programme>
-  <programme start="20260125052500 +0800" stop="20260125074500 +0800" channel="HBO.HD.sg">
-    <title lang="en">SUPERMAN</title>
-    <desc lang="en">This star-packed extravaganza brings the comic book legend to the big screen where an infant superhero is sent to Earth just as his home planet, Krypton, explodes.</desc>
+  <programme start="20260129001400 +0800" stop="20260129003000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Jake joins another school's cheer squad - in disguise!</desc>
   </programme>
-  <programme start="20260125074500 +0800" stop="20260125091500 +0800" channel="HBO.HD.sg">
-    <title lang="en">DOG MAN</title>
-    <desc lang="en">Half dog, half man, Dog Man is sworn to protect and serve...as long as he isn't distracted by squirrels.</desc>
+  <programme start="20260129003000 +0800" stop="20260129004500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S3</title>
+    <desc lang="en">Uncle Grandpa helps a boy get his head out of the clouds and focussed on his history test.</desc>
   </programme>
-  <programme start="20260125091500 +0800" stop="20260125105500 +0800" channel="HBO.HD.sg">
-    <title lang="en">DESPICABLE ME 2</title>
-    <desc lang="en">A series of spectacular evil crimes has risen and former super-villain Gru has been recruited to find out who is responsible for them.</desc>
+  <programme start="20260129004500 +0800" stop="20260129005600 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa goes to Italy to help a young girl who wants to be a great inventor.</desc>
   </programme>
-  <programme start="20260125105500 +0800" stop="20260125123000 +0800" channel="HBO.HD.sg">
-    <title lang="en">BLACK BAG</title>
-    <desc lang="en">An intelligence agent is suspected of betraying the nation, forcing her agent husband to choose between loyalty to his marriage or his country.</desc>
+  <programme start="20260129005600 +0800" stop="20260129010700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa goes to great lengths to meet Pizza Steve's imaginary friend.</desc>
   </programme>
-  <programme start="20260125123000 +0800" stop="20260125150000 +0800" channel="HBO.HD.sg">
-    <title lang="en">SUPERMAN RETURNS</title>
-    <desc lang="en">Superman returns after five years in space to find Lois engaged and Lex Luthor with a sinister plan that will endanger America.</desc>
+  <programme start="20260129010700 +0800" stop="20260129011800 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Pizza Steve's jealousy ruins Uncle Grandpa's Dinosaur Day celebration for Mr. Gus.</desc>
   </programme>
-  <programme start="20260125150000 +0800" stop="20260125170500 +0800" channel="HBO.HD.sg">
-    <title lang="en">OBLIVION</title>
-    <desc lang="en">A veteran assigned to extract Earth's remaining resources begins to question his mission and his being.</desc>
+  <programme start="20260129011800 +0800" stop="20260129013500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Pizza Steve desperately tries to prevent the gang from finding out his shameful secret.</desc>
   </programme>
-  <programme start="20260125170500 +0800" stop="20260125185000 +0800" channel="HBO.HD.sg">
-    <title lang="en">BIRDS OF PREY (AND THE FANTABULOUS EMANCIPATION OF ONE HARLEY QUINN)</title>
-    <desc lang="en">Margot Robbie reprises her role as Harley Quinn in a tale as twisted as Harley herself, and told as only Harley can tell it.</desc>
+  <programme start="20260129013500 +0800" stop="20260129014700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">The campers daydream about 'Camp Dinkey,' believing that it is the perfect camp for them.</desc>
   </programme>
-  <programme start="20260125185000 +0800" stop="20260125210000 +0800" channel="HBO.HD.sg">
-    <title lang="en">SHAZAM!</title>
-    <desc lang="en">A kid has the ability to turn into Shazam, an adult superhero. But he needs to master his powers quickly to fight the deadly forces of evil.</desc>
+  <programme start="20260129014700 +0800" stop="20260129015800 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Skip and Chip find a new 'Mom' -- and her name is Jane Doe!</desc>
   </programme>
-  <programme start="20260125210000 +0800" stop="20260125224500 +0800" channel="HBO.HD.sg">
-    <title lang="en">XXX: RETURN OF XANDER CAGE</title>
-    <desc lang="en">When a group of lethal mercenaries steal a weapon that pose a global threat, superspy Xander Cage is recruited to lead a team of adrenaline junkies to save the day.</desc>
+  <programme start="20260129015800 +0800" stop="20260129021000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Thanks to Lumpus, Lazlo has to confront his biggest fear -- clowns!</desc>
   </programme>
-  <programme start="20260125224500 +0800" stop="20260125224500 +0800" channel="HBO.HD.sg">
-    <title lang="en">M3GAN 2.0</title>
-    <desc lang="en">Your killer bestie is back! Armed with wild upgrades and her same iconic attitude, M3GAN faces off against an android who threatens her beloved Cady.</desc>
+  <programme start="20260129021000 +0800" stop="20260129022200 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">A Camping trip to a swamp turns odd when a mysterious sleeping-bag creature joins the activities.</desc>
   </programme>
-  <programme start="20260125224500 +0800" stop="20260126004500 +0800" channel="HBO.HD.sg">
-    <title lang="en">M3GAN 2.0</title>
-    <desc lang="en">Your killer bestie is back! Armed with wild upgrades and her same iconic attitude, M3GAN faces off against an android who threatens her beloved Cady.</desc>
+  <programme start="20260129022200 +0800" stop="20260129024000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward accidentally breaks Lazlo's ankle, and as a punishment is forced to perform Lazlo's long list of good deeds.</desc>
+  </programme>
+  <programme start="20260129024000 +0800" stop="20260129025500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A task force to handle camp complaints is assembled among the campers by Slinkman. But can they separate their duties from the perks of their job?</desc>
+  </programme>
+  <programme start="20260129025500 +0800" stop="20260129045000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">JACK THE GIANT SLAYER</title>
+    <desc lang="en">An epic twist of the classic tale where Jack climbs the beanstalk and battles marauding giants.</desc>
+  </programme>
+  <programme start="20260129045000 +0800" stop="20260129063500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">TRANSFORMERS ONE</title>
+    <desc lang="en">The untold origin story of Optimus Prime and Megatron, brothers-in-arms, turned sworn enemies.</desc>
+  </programme>
+  <programme start="20260129063500 +0800" stop="20260129071000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">SAVING MY TOMORROW</title>
+    <desc lang="en">Saving My Tomorrow celebrates the wonders of the natural world and is a call from kids to kids to help take care of the planet.</desc>
+  </programme>
+  <programme start="20260129071000 +0800" stop="20260129075500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">RUBY AND THE WELL S2</title>
+    <desc lang="en">Ruby receives her toughest wish yet - and unfortunately, it could be her last.</desc>
+  </programme>
+  <programme start="20260129075500 +0800" stop="20260129081000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S3</title>
+    <desc lang="en">Uncle Grandpa helps a boy get his head out of the clouds and focussed on his history test.</desc>
+  </programme>
+  <programme start="20260129081000 +0800" stop="20260129082100 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa goes to Italy to help a young girl who wants to be a great inventor.</desc>
+  </programme>
+  <programme start="20260129082100 +0800" stop="20260129083200 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa goes to great lengths to meet Pizza Steve's imaginary friend.</desc>
+  </programme>
+  <programme start="20260129083200 +0800" stop="20260129084300 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Pizza Steve's jealousy ruins Uncle Grandpa's Dinosaur Day celebration for Mr. Gus.</desc>
+  </programme>
+  <programme start="20260129084300 +0800" stop="20260129090000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Pizza Steve desperately tries to prevent the gang from finding out his shameful secret.</desc>
+  </programme>
+  <programme start="20260129090000 +0800" stop="20260129091200 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">The campers daydream about 'Camp Dinkey,' believing that it is the perfect camp for them.</desc>
+  </programme>
+  <programme start="20260129091200 +0800" stop="20260129092300 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Skip and Chip find a new 'Mom' -- and her name is Jane Doe!</desc>
+  </programme>
+  <programme start="20260129092300 +0800" stop="20260129093500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Thanks to Lumpus, Lazlo has to confront his biggest fear -- clowns!</desc>
+  </programme>
+  <programme start="20260129093500 +0800" stop="20260129094700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">A Camping trip to a swamp turns odd when a mysterious sleeping-bag creature joins the activities.</desc>
+  </programme>
+  <programme start="20260129094700 +0800" stop="20260129100500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S4</title>
+    <desc lang="en">Edward accidentally breaks Lazlo's ankle, and as a punishment is forced to perform Lazlo's long list of good deeds.</desc>
+  </programme>
+  <programme start="20260129100500 +0800" stop="20260129102000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A task force to handle camp complaints is assembled among the campers by Slinkman. But can they separate their duties from the perks of their job?</desc>
+  </programme>
+  <programme start="20260129102000 +0800" stop="20260129103500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S1</title>
+    <desc lang="en">Both Jake and Ingrid want to go with Adam to the school dance... So when Adam asks his human friend Kerry to be his date, things get messy.</desc>
+  </programme>
+  <programme start="20260129103500 +0800" stop="20260129104700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Coach Gills blows a fuse over Adam's inability to keep up with his animal classmates in gym.</desc>
+  </programme>
+  <programme start="20260129104700 +0800" stop="20260129105900 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">When everyone at school takes a test to show what their future careers might be, Jake and Adam are disappointed in the results.</desc>
+  </programme>
+  <programme start="20260129105900 +0800" stop="20260129111500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Jake joins another school's cheer squad - in disguise!</desc>
+  </programme>
+  <programme start="20260129111500 +0800" stop="20260129120500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">TOP CHEF S16</title>
+    <desc lang="en">The final five chefs travel to the Chinese territory of Macau for the remaining battles of the competition. Judge Graham Elliot, who has a restaurant in Macau, introduces the Chefs to the local market full of fascinating ingredients and challenges them to a Quickfire highlighting unique Macanese proteins. Then, the chefs throw a party celebrating Chinese New Year. Since it is the Year of the Pig, the dishes must feature pork products and be delicious enough to impress Hong Kong's super chef J...</desc>
+  </programme>
+  <programme start="20260129120500 +0800" stop="20260129123500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">HAPPILY EVER AFTER: FAIRY TALES FOR EVERY CHILD S2</title>
+    <desc lang="en">Catch this animated program about King Midas and his ability to turn anything into gold, done in an R&amp;B musical style.</desc>
+  </programme>
+  <programme start="20260129123500 +0800" stop="20260129144000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">JURASSIC PARK</title>
+    <desc lang="en">Steven Spielberg's masterpiece follows a team of scientists on an island to witness real dinosaurs in a park, only to see everything go wrong when a storm hits.</desc>
+  </programme>
+  <programme start="20260129144000 +0800" stop="20260129151500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">SAVING MY TOMORROW</title>
+    <desc lang="en">An HBO Original Documentary where kids share their thoughts on the environment of this changing earth.</desc>
+  </programme>
+  <programme start="20260129151500 +0800" stop="20260129155000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">SAVING MY TOMORROW</title>
+    <desc lang="en">SAVING MY TOMORROW.</desc>
+  </programme>
+  <programme start="20260129155000 +0800" stop="20260129160100 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">When a fed-up Mr. Gus moves out of the campervan, Uncle Grandpa and Pizza Steve work together to get him back.</desc>
+  </programme>
+  <programme start="20260129160100 +0800" stop="20260129161200 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">The legendary American rock band, the Melvins, teams up with Uncle Grandpa to help a young girl who wants to win her school's talent show.</desc>
+  </programme>
+  <programme start="20260129161200 +0800" stop="20260129162200 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa helps a child who can't get rid of the hiccups.</desc>
+  </programme>
+  <programme start="20260129162200 +0800" stop="20260129163300 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa and a child embark on a dangerous jungle adventure in search of a legendary MacGuffin.</desc>
+  </programme>
+  <programme start="20260129163300 +0800" stop="20260129165000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">UNCLE GRANDPA S4</title>
+    <desc lang="en">Uncle Grandpa's new found confidence makes his head big.</desc>
+  </programme>
+  <programme start="20260129165000 +0800" stop="20260129170100 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">The annual Acorn Flats 'Wig-out' leaves Almondine pondering the real meaning of 'pretty'.</desc>
+  </programme>
+  <programme start="20260129170100 +0800" stop="20260129171300 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A flapjack assault on Lumpus sends Clam into the hills as a wanted criminal, where the line is blurred between hero and outlaw.</desc>
+  </programme>
+  <programme start="20260129171300 +0800" stop="20260129172400 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">Where is the dung beetle's favorite penny? Chip and Skip spend a fortune to find it -- destroying camp in the process.</desc>
+  </programme>
+  <programme start="20260129172400 +0800" stop="20260129173600 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">A newly acquired collection of labor-saving devices leaves Raj atrophied and, ultimately, revert him back to a baby.</desc>
+  </programme>
+  <programme start="20260129173600 +0800" stop="20260129174700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">After Samson's 'bad luck' mysteriously gets Transferred to Lazlo, Lazlo has to appeal to the 'Scoutmaster in the Sky' for divine intervention.</desc>
+  </programme>
+  <programme start="20260129174700 +0800" stop="20260129180500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">CAMP LAZLO S5</title>
+    <desc lang="en">Clam agrees to pose as Squirrel Scout Nina's brother in order for Nina to find here place among the sisterhood.</desc>
+  </programme>
+  <programme start="20260129180500 +0800" stop="20260129181700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">The reason Jake wants detention every weekend is so he can get out of the zoo and do his very own basic cable variety show.</desc>
+  </programme>
+  <programme start="20260129181700 +0800" stop="20260129182900 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Adam goes back to his old school during an exchange program, and realizes things aren't exactly as he remembers them. Jake joins him, and has trouble distinguishing Adam from the other humans.</desc>
+  </programme>
+  <programme start="20260129182900 +0800" stop="20260129184100 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Jake falls in with a crowd of 'cool kids' and completely ignores Adam and the rest of his old friends.</desc>
+  </programme>
+  <programme start="20260129184100 +0800" stop="20260129190000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">When Jake hears Henry Armadillo sing, he quickly enters him into the school talent show and books him a TV gig.</desc>
+  </programme>
+  <programme start="20260129190000 +0800" stop="20260129195000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">TOP CHEF S16</title>
+    <desc lang="en">The day has come when the final four chefs must cook with the world's smelliest fruit durian. This infamous fruit is a delicacy in Macau, but will Padma and guest judge, James Beard Award winner Abe Conlon be able to stomach their creations for the season's last Quickfire? Then, the chefs get a tutorial in the traditional cuisine of Macau, a fusion of Chinese and Portuguese flavors, and are joined by their family members from back home. For the elimination challenge, the chefs are tasked with...</desc>
+  </programme>
+  <programme start="20260129195000 +0800" stop="20260129213000 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">HOTEL FOR DOGS</title>
+    <desc lang="en">A teen secretly fills a vacant house with stray dogs after she moves in with her fastidious aunt and has to leave her dog behind.</desc>
+  </programme>
+  <programme start="20260129213000 +0800" stop="20260129232500 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">JACK THE GIANT SLAYER</title>
+    <desc lang="en">An epic twist of the classic tale where Jack climbs the beanstalk and battles marauding giants.</desc>
+  </programme>
+  <programme start="20260129232500 +0800" stop="20260129233700 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">The reason Jake wants detention every weekend is so he can get out of the zoo and do his very own basic cable variety show.</desc>
+  </programme>
+  <programme start="20260129233700 +0800" stop="20260129234900 +0800" channel="HBO.Family.(HD).sg">
+    <title lang="en">MY GYM PARTNER'S A MONKEY S2</title>
+    <desc lang="en">Adam goes back to his old school during an exchange program, and realizes things aren't exactly as he remembers them. Jake joins him, and has trouble distinguishing Adam from the other humans.</desc>
   </programme>
   <programme start="20260126004500 +0800" stop="20260126021500 +0800" channel="HBO.HD.sg">
     <title lang="en">FINAL DESTINATION 2</title>
@@ -8225,5 +6805,65 @@
   <programme start="20260128230000 +0800" stop="20260128235000 +0800" channel="HBO.HD.sg">
     <title lang="en">THE AMERICAS S1</title>
     <desc lang="en">Penguins brave waves, pumas hunt, beetles climb, orcas train, elephant seals fight. With Tom Hanks.</desc>
+  </programme>
+  <programme start="20260128235000 +0800" stop="20260128235000 +0800" channel="HBO.HD.sg">
+    <title lang="en">WEAPONS</title>
+    <desc lang="en">All but one child from the same class vanishes leaving a community questioning who or what is behind their disappearance.</desc>
+  </programme>
+  <programme start="20260128235000 +0800" stop="20260129015500 +0800" channel="HBO.HD.sg">
+    <title lang="en">WEAPONS</title>
+    <desc lang="en">All but one child from the same class vanishes leaving a community questioning who or what is behind their disappearance.</desc>
+  </programme>
+  <programme start="20260129015500 +0800" stop="20260129025500 +0800" channel="HBO.HD.sg">
+    <title lang="en">INDUSTRY S4</title>
+    <desc lang="en">Sex, drugs, and risky deals. What would you trade for an all-time high?</desc>
+  </programme>
+  <programme start="20260129025500 +0800" stop="20260129035500 +0800" channel="HBO.HD.sg">
+    <title lang="en">A KNIGHT OF THE SEVEN KINGDOMS S1</title>
+    <desc lang="en">A century before the events of Game of Thrones, two unlikely heroes wander into Westeros—Ser Duncan the Tall, and his squire, Egg.</desc>
+  </programme>
+  <programme start="20260129035500 +0800" stop="20260129054500 +0800" channel="HBO.HD.sg">
+    <title lang="en">MAGIC MIKE XXL</title>
+    <desc lang="en">Three years after Mike retires from his stripper life, the Kings of Tampa reunite one last time to bring the house down with their muscles and moves.</desc>
+  </programme>
+  <programme start="20260129054500 +0800" stop="20260129061000 +0800" channel="HBO.HD.sg">
+    <title lang="en">HOLLYWOOD ON SET S1</title>
+    <desc lang="en">HOLLYWOOD ON SET S1.</desc>
+  </programme>
+  <programme start="20260129061000 +0800" stop="20260129080000 +0800" channel="HBO.HD.sg">
+    <title lang="en">MORNING GLORY</title>
+    <desc lang="en">Rachel McAdams and Harrison Ford star in this romantic comedy set in the hilarious and dysfunctional world of morning television.</desc>
+  </programme>
+  <programme start="20260129080000 +0800" stop="20260129093500 +0800" channel="HBO.HD.sg">
+    <title lang="en">SPELL</title>
+    <desc lang="en">A wounded man struggles to escape the grasps of an sinister elderly woman practicing Hoodoo magic.</desc>
+  </programme>
+  <programme start="20260129093500 +0800" stop="20260129114500 +0800" channel="HBO.HD.sg">
+    <title lang="en">THE PRESTIGE</title>
+    <desc lang="en">The quest for perfection drives two magicians to the very edge of sanity and morality.</desc>
+  </programme>
+  <programme start="20260129114500 +0800" stop="20260129135500 +0800" channel="HBO.HD.sg">
+    <title lang="en">DREAMGIRLS</title>
+    <desc lang="en">Three aspiring performers discover that the path to superstardom is strewn with obstacles and difficult decisions. Stars Jamie Foxx and Beyonce Knowles.</desc>
+  </programme>
+  <programme start="20260129135500 +0800" stop="20260129154000 +0800" channel="HBO.HD.sg">
+    <title lang="en">DISTURBIA</title>
+    <desc lang="en">A teenager under house arrest begins spying on his neighbours, one of whom he suspects is a killer.</desc>
+  </programme>
+  <programme start="20260129154000 +0800" stop="20260129172500 +0800" channel="HBO.HD.sg">
+    <title lang="en">THE FIRST WIVES CLUB</title>
+    <desc lang="en">Three divorced women seek revenge on the husbands who left them for younger women.</desc>
+  </programme>
+  <programme start="20260129172500 +0800" stop="20260129191500 +0800" channel="HBO.HD.sg">
+    <title lang="en">HAPPY FEET</title>
+    <desc lang="en">A misfit penguin is blamed for a fishing famine and made an outcast. He finds new friends and sets out to find the true cause of the famine.</desc>
+  </programme>
+  <programme start="20260129191500 +0800" stop="20260129210000 +0800" channel="HBO.HD.sg">
+    <title lang="en">10 CLOVERFIELD LANE</title>
+    <desc lang="en">After a car crash, a woman wakes up in an underground bunker with a stranger, who claims to have saved her from the apocalypse in the outside world.</desc>
+  </programme>
+  <programme start="20260129210000 +0800" stop="20260129223500 +0800" channel="HBO.HD.sg">
+    <title lang="en">JURASSIC PARK III</title>
+    <desc lang="en">Tricked into rescuing a boy from an island that once bred dinosaurs, a paleontologist discovers that its inhabitants are deadlier than he imagined.</desc>
   </programme>
   </tv>

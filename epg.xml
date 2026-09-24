@@ -1,15 +1,111 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv><channel id="Food.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s50747_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s50747_ll_h15_ab.png?w=360&amp;h=270" />
+<tv><channel id="Starz.Cinema.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Food Network HD</display-name>
+    <display-name lang="en">Starz Cinema HD</display-name>
   </channel>
-  <channel id="Starz.Encore.Suspense.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14766_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14766_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Bravo.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58625_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58625_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Suspense</display-name>
+    <display-name lang="en">Bravo HD</display-name>
+  </channel>
+  <channel id="COZI.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">COZI TV</display-name>
+  </channel>
+  <channel id="Starz.Encore.Action.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s72015_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s72015_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Action HD</display-name>
+  </channel>
+  <channel id="Disney.Junior.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s74885_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s74885_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney Junior HD</display-name>
+  </channel>
+  <channel id="Disney.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney Channel HD</display-name>
+  </channel>
+  <channel id="History.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">History HD</display-name>
+  </channel>
+  <channel id="Bloomberg.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Bloomberg HD</display-name>
+  </channel>
+  <channel id="5.StarMAX.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">5 StarMAX HD East</display-name>
+  </channel>
+  <channel id="Paramount.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Paramount Network HD</display-name>
+  </channel>
+  <channel id="Comedy.Central.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comedy Central HD</display-name>
+  </channel>
+  <channel id="Nicktoons.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Nicktoons</display-name>
+  </channel>
+  <channel id="Game.Show.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Game Show Network HD</display-name>
+  </channel>
+  <channel id="HBO.Movies.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBWP.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBWP.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Movies</display-name>
+  </channel>
+  <channel id="Cleo.TV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s110289_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s110289_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cleo TV HD</display-name>
+  </channel>
+  <channel id="CNBC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CNBC HD</display-name>
+  </channel>
+  <channel id="Destination.America.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60468_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60468_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Destination America HD</display-name>
+  </channel>
+  <channel id="PBS.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s112898_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s112898_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">PBS Stream</display-name>
   </channel>
   <channel id="FX.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s58574_ll_h15_aa.png?w=360&amp;h=270" />
@@ -17,17 +113,109 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">FX HD</display-name>
   </channel>
-  <channel id="CMT.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59440_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59440_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="Showtime.Next.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CMT HD</display-name>
+    <display-name lang="en">Showtime Next HD</display-name>
   </channel>
-  <channel id="Crime.and.Investigation.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="HBO.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Crime and Investigation Network HD</display-name>
+    <display-name lang="en">HBO East</display-name>
+  </channel>
+  <channel id="TNT.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TNT HD</display-name>
+  </channel>
+  <channel id="Nick.Music.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s30418_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s30418_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Nick Music</display-name>
+  </channel>
+  <channel id="Disney.XD.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Disney XD HD</display-name>
+  </channel>
+  <channel id="Comet.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Comet</display-name>
+  </channel>
+  <channel id="Lifetime.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Lifetime HD</display-name>
+  </channel>
+  <channel id="TBS.HD.us2">
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TBS HD</display-name>
+  </channel>
+  <channel id="Space.City.Home.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s77744_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s77744_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Space City Home Network HD</display-name>
+  </channel>
+  <channel id="Hallmark.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Hallmark Channel HD</display-name>
+  </channel>
+  <channel id="MSG.National.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MSG National</display-name>
+  </channel>
+  <channel id="CW.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CW</display-name>
+  </channel>
+  <channel id="Logo.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s46762_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s46762_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Logo</display-name>
+  </channel>
+  <channel id="Discovery.Life.Channel.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Discovery Life Channel</display-name>
+  </channel>
+  <channel id="Cartoon.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60048_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60048_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cartoon Network HD</display-name>
+  </channel>
+  <channel id="Me.TV.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Me TV Network</display-name>
+  </channel>
+  <channel id="Nickelodeon.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Nickelodeon HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.Suspense.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14766_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14766_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Suspense</display-name>
   </channel>
   <channel id="Outdoor.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s46737_ll_h15_ab.png?w=360&amp;h=270" />
@@ -35,11 +223,63 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Outdoor Channel HD</display-name>
   </channel>
-  <channel id="SundanceTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s71280_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s71280_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="WWE.Network.us2">
+    <url>http://www.ontvtonight.com</url>
+    <display-name lang="en">WWE Network</display-name>
+  </channel>
+  <channel id="Court.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">SundanceTV HD</display-name>
+    <display-name lang="en">Court TV</display-name>
+  </channel>
+  <channel id="Starz.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Comedy HD</display-name>
+  </channel>
+  <channel id="Food.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s50747_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s50747_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Food Network HD</display-name>
+  </channel>
+  <channel id="SHO.x.BET.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68340_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68340_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">SHO x BET HD</display-name>
+  </channel>
+  <channel id="AMC.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AMC HD</display-name>
+  </channel>
+  <channel id="Cooking.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Cooking Channel HD</display-name>
+  </channel>
+  <channel id="Investigation.Discovery.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Investigation Discovery HD</display-name>
+  </channel>
+  <channel id="MGM+.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">MGM+ HD</display-name>
+  </channel>
+  <channel id="Freeform.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Freeform HD</display-name>
   </channel>
   <channel id="FX.Movie.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s70253_ll_h15_aa.png?w=360&amp;h=270" />
@@ -47,23 +287,65 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">FX Movie Channel HD</display-name>
   </channel>
-  <channel id="American.Heroes.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s78808_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s78808_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">American Heroes Channel HD</display-name>
+  <channel id="AdultSwim.com.Cartoon.Network.us2">
+    <icon src="https://www.adultswim.com/img/as-logo.svg" />
+    <icon src="https://www.adultswim.com/img/as-logo.svg" />
+    <url>http://www.adultswim.com</url>
+    <display-name lang="en">AdultSwim com Cartoon Network</display-name>
   </channel>
-  <channel id="FXX.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+  <channel id="Starz.in.Black.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FXX HD</display-name>
+    <display-name lang="en">Starz in Black HD</display-name>
   </channel>
-  <channel id="Destination.America.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60468_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60468_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="National.Geographic.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Destination America HD</display-name>
+    <display-name lang="en">National Geographic HD</display-name>
+  </channel>
+  <channel id="Crime.and.Investigation.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61469_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Crime and Investigation Network HD</display-name>
+  </channel>
+  <channel id="Discovery.Family.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67749_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67749_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Discovery Family Channel HD</display-name>
+  </channel>
+  <channel id="CMT.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59440_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59440_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CMT HD</display-name>
+  </channel>
+  <channel id="The.Travel.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">The Travel Channel HD</display-name>
+  </channel>
+  <channel id="Law.and.Crime.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Law and Crime</display-name>
+  </channel>
+  <channel id="Starz.Encore.Westerns.SD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Westerns SD</display-name>
+  </channel>
+  <channel id="TV.ONE.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV ONE HD</display-name>
   </channel>
   <channel id="Oxygen.True.Crime.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s70522_ll_h15_ac.png?w=360&amp;h=270" />
@@ -77,237 +359,17 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Home and Garden Television HD</display-name>
   </channel>
-  <channel id="truTV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">truTV HD</display-name>
-  </channel>
-  <channel id="AMC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AMC HD</display-name>
-  </channel>
-  <channel id="Space.City.Home.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s77744_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s77744_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Space City Home Network HD</display-name>
-  </channel>
-  <channel id="HBO.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Comedy HD</display-name>
-  </channel>
-  <channel id="Starz.Edge.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Edge HD</display-name>
-  </channel>
-  <channel id="PBS.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s112898_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s112898_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">PBS Stream</display-name>
-  </channel>
-  <channel id="HBO.Hits.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Hits</display-name>
-  </channel>
-  <channel id="Showtime.Showcase.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Showcase HD</display-name>
-  </channel>
-  <channel id="Investigation.Discovery.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s65342_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Investigation Discovery HD</display-name>
-  </channel>
-  <channel id="Nick.Jr.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s82649_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s82649_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nick Jr HD</display-name>
-  </channel>
-  <channel id="AdultSwim.com.Cartoon.Network.us2">
-    <icon src="https://www.adultswim.com/img/as-logo.svg" />
-    <icon src="https://www.adultswim.com/img/as-logo.svg" />
-    <url>http://www.adultswim.com</url>
-    <display-name lang="en">AdultSwim com Cartoon Network</display-name>
-  </channel>
-  <channel id="Showtime.Next.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68342_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Next HD</display-name>
-  </channel>
-  <channel id="Antenna.TV.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Antenna TV</display-name>
-  </channel>
-  <channel id="TNT.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TNT HD</display-name>
-  </channel>
-  <channel id="E!.Entertainment.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">E! Entertainment Television HD</display-name>
-  </channel>
-  <channel id="History.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57708_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">History HD</display-name>
-  </channel>
-  <channel id="Comet.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comet</display-name>
-  </channel>
-  <channel id="Nicktoons.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s30420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nicktoons</display-name>
-  </channel>
-  <channel id="Nickelodeon.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59432_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nickelodeon HD</display-name>
-  </channel>
-  <channel id="Disney.XD.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60006_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney XD HD</display-name>
-  </channel>
-  <channel id="Lifetime.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60150_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Lifetime HD</display-name>
-  </channel>
-  <channel id="POP.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">POP HD</display-name>
-  </channel>
-  <channel id="Heroes.and.Icons.Network.SD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s110477_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s110477_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Heroes and Icons Network SD</display-name>
-  </channel>
-  <channel id="VH1.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">VH1 HD</display-name>
-  </channel>
-  <channel id="Oprah.Winfrey.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70388_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70388_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Oprah Winfrey Network HD</display-name>
-  </channel>
-  <channel id="Teen.Nick.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59036_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59036_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Teen Nick</display-name>
-  </channel>
-  <channel id="Starz.Encore.Family.SD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Family SD</display-name>
-  </channel>
-  <channel id="Me.TV.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s70436_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Me TV Network</display-name>
-  </channel>
-  <channel id="FYI.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58988_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58988_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">FYI Channel HD</display-name>
-  </channel>
-  <channel id="NECN.New.England.Cable.News.us2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/11000-55F0.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/11000-55F0.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">NECN New England Cable News</display-name>
-  </channel>
-  <channel id="Bloomberg.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s71799_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bloomberg HD</display-name>
-  </channel>
-  <channel id="AXS.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s28506_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28506_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">AXS TV</display-name>
-  </channel>
-  <channel id="BBC.America.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">BBC America HD</display-name>
-  </channel>
-  <channel id="Starz.Encore.Black.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Black</display-name>
-  </channel>
-  <channel id="Discovery.Turbo.TV.us2">
-    <icon src="https://image.xumo.com/v1/channels/channel/99951438/56x56.webp?type=color_onBlack" />
-    <icon src="https://image.xumo.com/v1/channels/channel/99951438/56x56.webp?type=color_onBlack" />
-    <url>http://www.xumo.com</url>
-    <display-name lang="en">Discovery Turbo TV</display-name>
-  </channel>
   <channel id="BET.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s63236_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">BET HD</display-name>
   </channel>
-  <channel id="CNBC.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG002NF45H.png?w=360&amp;h=270" />
+  <channel id="SundanceTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s71280_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s71280_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CNBC HD</display-name>
-  </channel>
-  <channel id="A.and.E.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">A and E HD East</display-name>
-  </channel>
-  <channel id="NBC.East.Stream.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">NBC East Stream</display-name>
+    <display-name lang="en">SundanceTV HD</display-name>
   </channel>
   <channel id="Yes.Network.us2">
     <icon src="http://dtil.tmsimg.com/assets/s30017_ll_h15_aa.png?w=360&amp;h=270" />
@@ -315,69 +377,17 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Yes Network</display-name>
   </channel>
-  <channel id="HBO.Drama.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
+  <channel id="Nick.Jr.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s82649_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s82649_ll_h15_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Drama</display-name>
+    <display-name lang="en">Nick Jr HD</display-name>
   </channel>
-  <channel id="Starz.in.Black.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67235_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="VH1.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s60046_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz in Black HD</display-name>
-  </channel>
-  <channel id="The.Travel.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59303_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Travel Channel HD</display-name>
-  </channel>
-  <channel id="Animal.Planet.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Animal Planet HD</display-name>
-  </channel>
-  <channel id="TBS.HD.us2">
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TBS HD</display-name>
-  </channel>
-  <channel id="Start.TV.Network.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s109454_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s109454_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Start TV Network</display-name>
-  </channel>
-  <channel id="CW.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CW</display-name>
-  </channel>
-  <channel id="Starz.Comedy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Comedy HD</display-name>
-  </channel>
-  <channel id="Cooking.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68065_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cooking Channel HD</display-name>
-  </channel>
-  <channel id="Discovery.Life.Channel.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s16125_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Life Channel</display-name>
-  </channel>
-  <channel id="LMN.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">LMN HD</display-name>
+    <display-name lang="en">VH1 HD</display-name>
   </channel>
   <channel id="Showtime.Extreme.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" />
@@ -385,89 +395,23 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Showtime Extreme HD</display-name>
   </channel>
-  <channel id="Showtime.2.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="Animal.Planet.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57394_ll_h9_ad.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime 2 HD</display-name>
+    <display-name lang="en">Animal Planet HD</display-name>
   </channel>
-  <channel id="Law.and.Crime.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0021EGJM.png?w=360&amp;h=270" />
+  <channel id="FXX.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s66379_ll_h9_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Law and Crime</display-name>
+    <display-name lang="en">FXX HD</display-name>
   </channel>
-  <channel id="Nick.Music.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s30418_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s30418_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="POP.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68796_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Nick Music</display-name>
-  </channel>
-  <channel id="Starz.Cinema.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67236_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Cinema HD</display-name>
-  </channel>
-  <channel id="SHO.x.BET.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68340_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68340_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">SHO x BET HD</display-name>
-  </channel>
-  <channel id="Cartoon.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s60048_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s60048_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cartoon Network HD</display-name>
-  </channel>
-  <channel id="National.Geographic.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49438_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic HD</display-name>
-  </channel>
-  <channel id="Showtime.Women.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Women HD</display-name>
-  </channel>
-  <channel id="Syfy.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Syfy HD</display-name>
-  </channel>
-  <channel id="Starz.Encore.Action.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s72015_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s72015_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Action HD</display-name>
-  </channel>
-  <channel id="HBO.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s19548_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO East</display-name>
-  </channel>
-  <channel id="Starz.Encore.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore HD</display-name>
-  </channel>
-  <channel id="Cleo.TV.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s110289_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s110289_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Cleo TV HD</display-name>
-  </channel>
-  <channel id="5.StarMAX.HD.East.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029CS01.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">5 StarMAX HD East</display-name>
+    <display-name lang="en">POP HD</display-name>
   </channel>
   <channel id="Discovery.Channel.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s56905_ll_h15_ad.png?w=360&amp;h=270" />
@@ -475,89 +419,23 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Discovery Channel HD</display-name>
   </channel>
-  <channel id="TLC.HD.(US).us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="Heroes.and.Icons.Network.SD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s110477_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s110477_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TLC HD (US)</display-name>
+    <display-name lang="en">Heroes and Icons Network SD</display-name>
   </channel>
-  <channel id="Court.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s111043_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Starz.Encore.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s36225_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Court TV</display-name>
+    <display-name lang="en">Starz Encore HD</display-name>
   </channel>
-  <channel id="Discovery.Family.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67749_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67749_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Showtime.2.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58533_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Discovery Family Channel HD</display-name>
-  </channel>
-  <channel id="Freeform.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59615_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Freeform HD</display-name>
-  </channel>
-  <channel id="National.Geographic.Wild.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">National Geographic Wild HD</display-name>
-  </channel>
-  <channel id="Disney.Junior.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s74885_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s74885_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney Junior HD</display-name>
-  </channel>
-  <channel id="Starz.Kids.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Kids HD</display-name>
-  </channel>
-  <channel id="Fuse.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Fuse HD</display-name>
-  </channel>
-  <channel id="HBO.Movies.us2">
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBWP.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBWP.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">HBO Movies</display-name>
-  </channel>
-  <channel id="Starz.Encore.Classic.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Classic</display-name>
-  </channel>
-  <channel id="Hallmark.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s66268_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Hallmark Channel HD</display-name>
-  </channel>
-  <channel id="Science.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s57390_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57390_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Science Channel HD</display-name>
-  </channel>
-  <channel id="Starz.Encore.Westerns.SD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s102906_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Starz Encore Westerns SD</display-name>
-  </channel>
-  <channel id="Game.Show.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68827_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Game Show Network HD</display-name>
+    <display-name lang="en">Showtime 2 HD</display-name>
   </channel>
   <channel id="Hallmark.Mystery.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s46710_ll_h15_ab.png?w=360&amp;h=270" />
@@ -565,81 +443,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Hallmark Mystery HD</display-name>
   </channel>
-  <channel id="ION.Television.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+  <channel id="FYI.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58988_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58988_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">ION Television HD</display-name>
-  </channel>
-  <channel id="Comedy.Central.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s62420_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Comedy Central HD</display-name>
-  </channel>
-  <channel id="TV.Land.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV Land HD</display-name>
-  </channel>
-  <channel id="COZI.TV.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s78851_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">COZI TV</display-name>
-  </channel>
-  <channel id="MGM+.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s65687_ll_h15_ag.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MGM+ HD</display-name>
-  </channel>
-  <channel id="Disney.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59684_ll_h15_ae.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Disney Channel HD</display-name>
-  </channel>
-  <channel id="WWE.Network.us2">
-    <url>http://www.ontvtonight.com</url>
-    <display-name lang="en">WWE Network</display-name>
-  </channel>
-  <channel id="The.Movie.Channel.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">The Movie Channel HD</display-name>
-  </channel>
-  <channel id="MSG.National.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10979_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">MSG National</display-name>
-  </channel>
-  <channel id="Showtime.Familyzone.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Showtime Familyzone HD</display-name>
-  </channel>
-  <channel id="USA.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">USA Network HD</display-name>
-  </channel>
-  <channel id="TV.ONE.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61960_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TV ONE HD</display-name>
-  </channel>
-  <channel id="Logo.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s46762_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s46762_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Logo</display-name>
+    <display-name lang="en">FYI Channel HD</display-name>
   </channel>
   <channel id="ACC.Network.us2">
     <icon src="http://dtil.tmsimg.com/assets/s111871_ll_h15_ac.png?w=360&amp;h=270" />
@@ -647,23 +455,215 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">ACC Network</display-name>
   </channel>
+  <channel id="TV.Land.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73541_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TV Land HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.Classic.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14764_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Classic</display-name>
+  </channel>
+  <channel id="Starz.Kids.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57581_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Kids HD</display-name>
+  </channel>
+  <channel id="USA.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58452_ll_h15_af.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">USA Network HD</display-name>
+  </channel>
+  <channel id="Start.TV.Network.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s109454_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s109454_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Start TV Network</display-name>
+  </channel>
+  <channel id="truTV.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64490_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">truTV HD</display-name>
+  </channel>
+  <channel id="Antenna.TV.us2">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/70248-224D0.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Antenna TV</display-name>
+  </channel>
+  <channel id="BBC.America.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s64492_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">BBC America HD</display-name>
+  </channel>
+  <channel id="Science.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57390_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57390_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Science Channel HD</display-name>
+  </channel>
+  <channel id="TLC.HD.(US).us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57391_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TLC HD (US)</display-name>
+  </channel>
+  <channel id="A.and.E.HD.East.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s51529_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">A and E HD East</display-name>
+  </channel>
+  <channel id="HBO.Drama.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV2.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Drama</display-name>
+  </channel>
+  <channel id="Showtime.Showcase.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61001_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Showcase HD</display-name>
+  </channel>
+  <channel id="Teen.Nick.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59036_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59036_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Teen Nick</display-name>
+  </channel>
+  <channel id="NBC.East.Stream.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28717_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">NBC East Stream</display-name>
+  </channel>
+  <channel id="HBO.Hits.us2">
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/GNLZZGG0029BBSR.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Hits</display-name>
+  </channel>
+  <channel id="Syfy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s58623_ll_h15_ae.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Syfy HD</display-name>
+  </channel>
+  <channel id="Starz.Edge.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Edge HD</display-name>
+  </channel>
+  <channel id="Starz.Encore.Family.SD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s102903_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Starz Encore Family SD</display-name>
+  </channel>
+  <channel id="ION.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18633_ll_h15_ad.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">ION Television HD</display-name>
+  </channel>
+  <channel id="Discovery.Turbo.TV.us2">
+    <icon src="https://image.xumo.com/v1/channels/channel/99951438/56x56.webp?type=color_onBlack" />
+    <icon src="https://image.xumo.com/v1/channels/channel/99951438/56x56.webp?type=color_onBlack" />
+    <url>http://www.xumo.com</url>
+    <display-name lang="en">Discovery Turbo TV</display-name>
+  </channel>
+  <channel id="Showtime.Women.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68338_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Women HD</display-name>
+  </channel>
+  <channel id="National.Geographic.Wild.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s67331_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">National Geographic Wild HD</display-name>
+  </channel>
+  <channel id="HBO.Comedy.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59839_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">HBO Comedy HD</display-name>
+  </channel>
+  <channel id="Showtime.Familyzone.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s25274_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Showtime Familyzone HD</display-name>
+  </channel>
+  <channel id="LMN.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s55887_ll_h15_ag.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">LMN HD</display-name>
+  </channel>
+  <channel id="American.Heroes.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s78808_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s78808_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">American Heroes Channel HD</display-name>
+  </channel>
+  <channel id="E!.Entertainment.Television.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61812_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">E! Entertainment Television HD</display-name>
+  </channel>
+  <channel id="NECN.New.England.Cable.News.us2">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/11000-55F0.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v3/11000-55F0.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">NECN New England Cable News</display-name>
+  </channel>
   <channel id="Cinemax.HD.us2">
     <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Cinemax HD</display-name>
   </channel>
-  <channel id="Bravo.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s58625_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s58625_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="Starz.Encore.Black.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s14870_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Bravo HD</display-name>
+    <display-name lang="en">Starz Encore Black</display-name>
   </channel>
-  <channel id="Paramount.Network.HD.us2">
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s59186_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="The.Movie.Channel.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s35329_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Paramount Network HD</display-name>
+    <display-name lang="en">The Movie Channel HD</display-name>
+  </channel>
+  <channel id="Oprah.Winfrey.Network.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s70388_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s70388_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Oprah Winfrey Network HD</display-name>
+  </channel>
+  <channel id="AXS.TV.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s28506_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s28506_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">AXS TV</display-name>
+  </channel>
+  <channel id="Fuse.HD.us2">
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Fuse HD</display-name>
   </channel>
   <programme channel="Showtime.Women.HD.us2" start="20260921043500 +0000" stop="20260921063000 +0000">
     <title lang="en">Case 39</title>
@@ -425192,6 +425192,36 @@
       <value>12</value>
     </rating>
   </programme>
+  <channel id="Sportsnet.World.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s57735_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s57735_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Sportsnet World</display-name>
+  </channel>
+  <channel id="TSN.4.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TSN 4</display-name>
+  </channel>
+  <channel id="TVA.Sports.2.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s90206_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s90206_ll_h15_ac.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TVA Sports 2 HD</display-name>
+  </channel>
+  <channel id="YesTV.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s18805_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18805_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">YesTV</display-name>
+  </channel>
+  <channel id="TVO.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s10119_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10119_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TVO</display-name>
+  </channel>
   <channel id="Réseau.des.Sports.(RDS).ca2">
     <icon src="http://dtil.tmsimg.com/assets/s15676_ll_h15_aa.png?w=360&amp;h=270" />
     <icon src="http://dtil.tmsimg.com/assets/s15676_ll_h15_aa.png?w=360&amp;h=270" />
@@ -425204,29 +425234,23 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Sportsnet East HD</display-name>
   </channel>
-  <channel id="TVO.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s10119_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10119_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TVO</display-name>
+  <channel id="Noovo.ca2">
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" />
+    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" />
+    <url>http://www.tvpassport.com</url>
+    <display-name lang="en">Noovo</display-name>
   </channel>
-  <channel id="Sportsnet.One.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s68859_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s68859_ll_h15_ac.png?w=360&amp;h=270" />
+  <channel id="TSN.5.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s90124_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s90124_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet One HD</display-name>
+    <display-name lang="en">TSN 5</display-name>
   </channel>
-  <channel id="TSN.2.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
+  <channel id="TSN.3.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s90118_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s90118_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 2</display-name>
-  </channel>
-  <channel id="RDS2.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s73275_ll_h9_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s73275_ll_h9_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">RDS2 HD</display-name>
+    <display-name lang="en">TSN 3</display-name>
   </channel>
   <channel id="TVA.Sports.HD.ca2">
     <icon src="http://dtil.tmsimg.com/assets/s73142_ll_h15_ad.png?w=360&amp;h=270" />
@@ -425240,65 +425264,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">YTV</display-name>
   </channel>
-  <channel id="Sportsnet.360.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Sportsnet.One.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s68859_ll_h15_ac.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s68859_ll_h15_ac.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet 360 HD</display-name>
-  </channel>
-  <channel id="Sportsnet.World.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s57735_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s57735_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet World</display-name>
-  </channel>
-  <channel id="Noovo.ca2">
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" />
-    <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s15696_h15_ac.png" />
-    <url>http://www.tvpassport.com</url>
-    <display-name lang="en">Noovo</display-name>
-  </channel>
-  <channel id="CityTv.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s10125_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s10125_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">CityTv</display-name>
-  </channel>
-  <channel id="TSN.1.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 1</display-name>
-  </channel>
-  <channel id="TSN.5.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s90124_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s90124_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 5</display-name>
-  </channel>
-  <channel id="TVA.Sports.2.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s90206_ll_h15_ac.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s90206_ll_h15_ac.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TVA Sports 2 HD</display-name>
-  </channel>
-  <channel id="TSN.3.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s90118_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s90118_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 3</display-name>
-  </channel>
-  <channel id="TSN.4.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s90122_ll_h15_aa.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">TSN 4</display-name>
-  </channel>
-  <channel id="Réseau.des.Sports.Info.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s39080_ll_h15_ab.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s39080_ll_h15_ab.png?w=360&amp;h=270" />
-    <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Réseau des Sports Info</display-name>
+    <display-name lang="en">Sportsnet One HD</display-name>
   </channel>
   <channel id="Discovery.Channel.ca2">
     <icon src="http://dtil.tmsimg.com/assets/s167588_ll_h9_ab.png?w=360&amp;h=270" />
@@ -425306,11 +425276,11 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Discovery Channel</display-name>
   </channel>
-  <channel id="Sportsnet.West.HD.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s61742_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s61742_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Réseau.des.Sports.Info.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s39080_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s39080_ll_h15_ab.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">Sportsnet West HD</display-name>
+    <display-name lang="en">Réseau des Sports Info</display-name>
   </channel>
   <channel id="Sportsnet.Ontario.HD.ca2">
     <icon src="http://dtil.tmsimg.com/assets/s62111_ll_h15_ac.png?w=360&amp;h=270" />
@@ -425318,11 +425288,41 @@
     <url>http://www.tmsapi.com</url>
     <display-name lang="en">Sportsnet Ontario HD</display-name>
   </channel>
-  <channel id="YesTV.ca2">
-    <icon src="http://dtil.tmsimg.com/assets/s18805_ll_h15_aa.png?w=360&amp;h=270" />
-    <icon src="http://dtil.tmsimg.com/assets/s18805_ll_h15_aa.png?w=360&amp;h=270" />
+  <channel id="Sportsnet.360.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s49952_ll_h15_aa.png?w=360&amp;h=270" />
     <url>http://www.tmsapi.com</url>
-    <display-name lang="en">YesTV</display-name>
+    <display-name lang="en">Sportsnet 360 HD</display-name>
+  </channel>
+  <channel id="TSN.2.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s18990_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TSN 2</display-name>
+  </channel>
+  <channel id="CityTv.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s10125_ll_h15_ab.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s10125_ll_h15_ab.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">CityTv</display-name>
+  </channel>
+  <channel id="RDS2.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s73275_ll_h9_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s73275_ll_h9_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">RDS2 HD</display-name>
+  </channel>
+  <channel id="Sportsnet.West.HD.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s61742_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s61742_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">Sportsnet West HD</display-name>
+  </channel>
+  <channel id="TSN.1.ca2">
+    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
+    <icon src="http://dtil.tmsimg.com/assets/s11182_ll_h15_aa.png?w=360&amp;h=270" />
+    <url>http://www.tmsapi.com</url>
+    <display-name lang="en">TSN 1</display-name>
   </channel>
   <programme channel="Sportsnet.One.HD.ca2" start="20260922050000 +0000" stop="20260922053000 +0000">
     <title lang="en">Blue Jays in 30</title>
@@ -474802,11 +474802,11 @@
       <value>TVG</value>
     </rating>
   </programme>
-  <channel id="Film4.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+  <channel id="Sky.Cinema.Select.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Film4 HD</display-name>
+    <display-name lang="en">Sky Cinema Select</display-name>
   </channel>
   <channel id="SkyPremiereHD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4021.png" />
@@ -474814,47 +474814,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">SkyPremiereHD</display-name>
   </channel>
-  <channel id="Sky.Comedy.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Comedy HD</display-name>
-  </channel>
   <channel id="Sky.Drama.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4016.png" />
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Drama HD</display-name>
-  </channel>
-  <channel id="Sky.HistoryHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky HistoryHD</display-name>
-  </channel>
-  <channel id="Sky.Greats.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Greats HD</display-name>
-  </channel>
-  <channel id="Sky.Arts.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Arts HD</display-name>
-  </channel>
-  <channel id="Sky.Crime.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Crime HD</display-name>
-  </channel>
-  <channel id="Sky.ScFi/HorHD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
-    <url>http://www.sky.com</url>
-    <display-name lang="en">Sky ScFi/HorHD</display-name>
   </channel>
   <channel id="Sky.Action.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4014.png" />
@@ -474862,11 +474826,47 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Action HD</display-name>
   </channel>
-  <channel id="Sky.Cinema.Select.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4020.png" />
+  <channel id="Sky.Family.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Cinema Select</display-name>
+    <display-name lang="en">Sky Family HD</display-name>
+  </channel>
+  <channel id="Film4.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4044.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Film4 HD</display-name>
+  </channel>
+  <channel id="Sky.Arts.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4063.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Arts HD</display-name>
+  </channel>
+  <channel id="Sky.ScFi/HorHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4017.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky ScFi/HorHD</display-name>
+  </channel>
+  <channel id="Sky.HistoryHD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4086.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky HistoryHD</display-name>
+  </channel>
+  <channel id="Sky.Comedy.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1143.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Comedy HD</display-name>
+  </channel>
+  <channel id="Sky.Cinema.Hits.HD.uk">
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
+    <url>http://www.whattowatch.com_uk</url>
+    <display-name lang="en">Sky Cinema Hits HD</display-name>
   </channel>
   <channel id="Sky.Atlantic.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4053.png" />
@@ -474874,11 +474874,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Atlantic HD</display-name>
   </channel>
-  <channel id="Sky.Family.HD.uk">
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
-    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4018.png" />
+  <channel id="Sky.Crime.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb1212.png" />
     <url>http://www.sky.com</url>
-    <display-name lang="en">Sky Family HD</display-name>
+    <display-name lang="en">Sky Crime HD</display-name>
   </channel>
   <channel id="Sky.Thriller.HD.uk">
     <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4062.png" />
@@ -474886,11 +474886,11 @@
     <url>http://www.sky.com</url>
     <display-name lang="en">Sky Thriller HD</display-name>
   </channel>
-  <channel id="Sky.Cinema.Hits.HD.uk">
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <icon src="https://cdn.tv-guide.future.sensi.link/images/channel/1be50627-1688-54a7-a314-dc256342c67a/logo.png" />
-    <url>http://www.whattowatch.com_uk</url>
-    <display-name lang="en">Sky Cinema Hits HD</display-name>
+  <channel id="Sky.Greats.HD.uk">
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <icon src="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4015.png" />
+    <url>http://www.sky.com</url>
+    <display-name lang="en">Sky Greats HD</display-name>
   </channel>
   <programme channel="Sky.HistoryHD.uk" start="20260921001500 +0000" stop="20260921011500 +0000">
     <title lang="en">Pawn Stars</title>
